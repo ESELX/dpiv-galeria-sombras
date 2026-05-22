@@ -5,7 +5,7 @@ tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
 hero_title: Grupo das Sombras
-hero_subtitle: Carrinhos de Madeira
+hero_subtitle: Mafalda, Mª Antónia, Mª Inês e Sabrina
 hero_height: 100vh
 hero_overlay: 0.3
 hero_align: center
@@ -56,12 +56,22 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
   <a class="gallery-card" href="produtos/_modelo/">
     <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
     <h3>Nome do Produto</h3>
-    <p>Nome do Aluno</p>
+    <p>Mafalda</p>
   </a>
-    <a class="gallery-card" href="produtos/_modelo/">
+    <a class="gallery-card" href="produtos/pintura/">
     <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
     <h3>Nome do Produto</h3>
-    <p>Nome do Aluno</p>
+    <p>Maria Inês</p>
+  </a>
+  <a class="gallery-card" href="produtos/_modelo2/">
+    <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
+    <h3>Nome do Produto</h3>
+    <p>Maria Antónia</p>
+  </a>
+    <a class="gallery-card" href="produtos/_modelo3/">
+    <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
+    <h3>Nome do Produto</h3>
+    <p>Sabrina</p>
   </a>
 
   <!-- duplicar o bloco acima para cada produto do grupo  e substituir _modelo em ambas por <numero>-<nome> -->

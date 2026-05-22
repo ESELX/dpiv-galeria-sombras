@@ -23,7 +23,6 @@ Página explicativa do contexto, em concordância com a apresentação produzida
 ### Resumo (PT)
 
 Coloque aqui o resumo do projeto em português (máximo 500 palavras).
-
 ### Abstract (EN)
 
 Place here the abstract in English (max 500 words). (sabrina)
