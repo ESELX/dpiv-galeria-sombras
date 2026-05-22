@@ -26,7 +26,7 @@ Coloque aqui o resumo do projeto em português (máximo 500 palavras).
 
 ### Abstract (EN)
 
-Place here the abstract in English (max 500 words).
+Place here the abstract in English (max 500 words). (sabrina)
 
 ## 2. Referências Coletivas
 
