@@ -60,7 +60,7 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
   </a>
     <a class="gallery-card" href="produtos/maria_ines/">
     <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
-    <h3>Nome do Produto</h3>
+    <h3>Rascunho</h3>
     <p>Maria Inês</p>
   </a>
   <a class="gallery-card" href="produtos/maria_antonia/">
@@ -70,7 +70,7 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
   </a>
     <a class="gallery-card" href="produtos/sabrina/">
     <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
-    <h3>Nome do Produto</h3>
+    <h3>Texturitas</h3>
     <p>Sabrina</p>
   </a>
 
