@@ -4,8 +4,8 @@ icon: lucide/users
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
-hero_title: Grupo das Sombras
-hero_subtitle: Mafalda, Mª Antónia, Mª Inês e Sabrina
+hero_title: Sombras
+hero_subtitle: Projetamos o teu mundo
 hero_height: 100vh
 hero_overlay: 0.3
 hero_align: center
@@ -23,10 +23,10 @@ group_number: ""
 
 | Número  | Nome             |
 | ------- | ---------------- |
-| 2024    | Mafalda Carvalho |
+| 2024279 | Mafalda Carvalho |
 | 2024342 | Maria Antónia N. |
 | 2024566 | Maria Inês M.    |
-| 2023    | Sabrina Silva    |
+| 2023509 | Sabrina Silva    |
 
 ---
 
@@ -53,22 +53,22 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
 
   <!-- duplicar o bloco abaixo para cada produto do grupo -->
 
-  <a class="gallery-card" href="produtos/_modelo/">
+  <a class="gallery-card" href="produtos/mafalda/">
     <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
     <h3>Nome do Produto</h3>
     <p>Mafalda</p>
   </a>
-    <a class="gallery-card" href="produtos/pintura/">
+    <a class="gallery-card" href="produtos/maria_ines/">
     <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
     <h3>Nome do Produto</h3>
     <p>Maria Inês</p>
   </a>
-  <a class="gallery-card" href="produtos/_modelo2/">
+  <a class="gallery-card" href="produtos/maria_antonia/">
     <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
     <h3>Nome do Produto</h3>
     <p>Maria Antónia</p>
   </a>
-    <a class="gallery-card" href="produtos/_modelo3/">
+    <a class="gallery-card" href="produtos/sabrina/">
     <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
     <h3>Nome do Produto</h3>
     <p>Sabrina</p>
