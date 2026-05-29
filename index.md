@@ -3,7 +3,7 @@ title: Nome do Grupo x
 icon: lucide/users
 tags: galeria
 status: not-started
-hero_image: ../attachments/capa.jpg
+hero_image: attachments/capa.jpg
 hero_title: Sombras
 hero_subtitle: Projetamos o teu mundo
 hero_height: 100vh
