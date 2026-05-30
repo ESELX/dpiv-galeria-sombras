@@ -41,7 +41,7 @@ Desenvolvido para crianças com mais de 3 anos.
 
 Este brinquedo, para além do tato, propõe uma interação com uma fonte de luz, perfurações e rasgos nas peças, transformando blocos de madeira em filtros de luz. Ao projetar estes padrões e texturas nas superfícies envolventes, o objeto passa a ser uma extensão física do próprio brinquedo. Isto estimula a curiosidade, criatividade e exploração da física da luz através do brincar.
 
-![](attachments/placeholder.png)
+![](attachments/prancha1.pdf)
 
 ## Enquadramento
 
