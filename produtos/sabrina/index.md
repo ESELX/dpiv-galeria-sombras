@@ -49,8 +49,9 @@ Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.
 
 ## Tecnologia
 
-Materiais: 
+Materiais: Pinho tradicional
 Processos de fabrico: O corte exterior (contorno) e a abertura dos rasgos lineares e das formas circulares foram executados numa fresadora CNC.
+
 Software paramétrico: Autodesk Fusion 360
 Ficheiros técnicos.
 
