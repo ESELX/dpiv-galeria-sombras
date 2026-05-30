@@ -29,7 +29,17 @@ Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
 
 ## Conceito
 
-Ideia central do produto. O que é, para quem, porquê.
+I**deia central do produto.** 
+
+O Texturitas é um brinquedo de encaixe e empilhamento composto por formas simples e minimalistas feitas de madeira, com as quais é possível combinar siluetas geométricas e padrões orgânicos inspirados na natureza.
+
+**Para quem?**
+
+Desenvolvido para crianças com mais de 3 anos.
+
+**Porque?**
+
+Este brinquedo para
 
 ![](attachments/placeholder.png)
 
