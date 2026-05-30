@@ -65,13 +65,19 @@ Prancha Resumo
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
 
+Texturitas distingue-se pela subtração intencional dos materiais para dar origem a uma tridimensionalidade abstrata (sombra). Valorizou-se a estética minimalista através de formas simples e arredondadas, mas dinâmicas
+
 ![](attachments/placeholder.png)
 
 ### 7.2. Objetos de referencia
 
 Inventário de precedentes, brinquedos análogos, referências históricas.
 
-![](attachments/placeholder.png)
+**Referências históricas**
+
+O teatro de sombras é uma arte muito antiga de contar histórias, originária da China. Estes utilizavam bonecos de diversas cores e com detalhes variados.
+
+![](attachments/teatro.jpg)
 
 ## 8. Outros Elementos
 
