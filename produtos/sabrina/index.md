@@ -89,4 +89,4 @@ Imagens-chave que sintetizam o produto final.
 
 O percurso completo de iterações, modelos e pesquisa está em [processo.md](../mafalda/processo.md), organizado do **mais recente** para o **mais antigo**.
 
-[Ver processo completo →](../mafalda/processo.md)
+[Ver processo completo →](../sabrina/processo.md)
