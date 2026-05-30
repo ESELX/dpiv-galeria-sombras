@@ -60,9 +60,17 @@ Ficheiros técnicos.
 
 ## Função
 
-**Como se brinca**
-A criança precisa empilhar, encaixar e contrapor as peças texturadas para criar figuras. Em paralelo , o brinquedo permite visualizar a sua silhueta na parede ou no chão por meio de uma fonte de luz. Além disso, dependendo do ângulo e da distância em relação à luz, a sombra sofre distorções e variações de escala. Isto permite que a criança perceba de forma divertida, conceitos de proporção, profundidade e movimento através de uma simples parede.
-idade-alvo, montagem, conformidade com a Diretiva 2009/48/CE.
+**Como se brinca?**
+
+A criança precisa empilhar, encaixar e contrapor as peças texturadas para criar figuras. Em paralelo , o brinquedo permite visualizar a sua silhueta na parede ou no chão por meio de uma fonte de luz. Além disso, dependendo do ângulo e da distância em relação à luz, a sombra sofre distorções e variações de escala. Isto permite que a criança perceba de forma divertida conceitos de proporção, profundidade e movimento através de uma simples parede.
+
+**Idade**: +3 anos
+
+
+**Montagem:** Brinquedo com encaixe intuitivo e livre, sem necessidade de ferramentas ou elementos de fixação adicionais. 
+
+
+**Conformidade com a Diretiva 2009/48/CE.**
 
 ## Apresentação
 
