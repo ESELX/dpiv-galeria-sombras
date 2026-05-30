@@ -56,7 +56,8 @@ Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
 
 Desenhos manuais, 
 pranchas A3 de síntese, 
-exploração de variantes.
+Exploração de variantes.
+Prancha Resumo
 
 ![](attachments/prancha2.png)
 ![](attachments/medidas.jpg)
@@ -72,6 +73,6 @@ Inventário de precedentes, brinquedos análogos, referências históricas.
 
 ![](attachments/placeholder.png)
 
-## 9. Outros Elementos
+## 8. Outros Elementos
 
 Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).
