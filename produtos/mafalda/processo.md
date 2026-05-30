@@ -54,7 +54,7 @@ Desenhos manuais,
 pranchas A3 de síntese, 
 exploração de variantes.
 
-![](attachments/prancha1.pdf)
+![](attachments/prancha2.png)
 
 ## 7. Pesquisa
 
