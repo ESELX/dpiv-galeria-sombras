@@ -58,6 +58,7 @@ exploração de variantes.
 
 ![](attachments/prancha2.png)
 
+
 ![](attachments/medidas.jpg)
 ## 7. Pesquisa
 
