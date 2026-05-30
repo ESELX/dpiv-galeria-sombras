@@ -42,8 +42,6 @@ Foram executadas experimentações de projeção através da luz e fotografadas 
 
 ## 4. Modelos 3D
 
-Embed do Fusion (visualização do modelo paramétrico).
-
 https://a360.co/432911F
 
 ## 5. Outros Modelos
@@ -82,3 +80,5 @@ O teatro de sombras é uma arte muito antiga de contar histórias, originária d
 ## 8. Outros Elementos
 
 Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).
+
+
