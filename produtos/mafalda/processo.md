@@ -25,7 +25,9 @@ Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
 
 ## 2. Processo de Prototipagem
 
-Maquinação CNC, montagem, acabamentos pontuais. 
+1ª fase (corte): Utilização de uma fresa de topo de 3 mm para todo o projeto. 
+
+2ª fase (acabamento): Foi feito o processo de lixagem com lixas de grão nº 120 para eliminação de falhas e remoção de farpas.
 
 ![](attachments/placeholder.png)
 
