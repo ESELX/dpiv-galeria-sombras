@@ -44,7 +44,7 @@ Foram executadas experimentações de projeção através da luz e fotografadas 
 
 Embed do Fusion (visualização do modelo paramétrico).
 
-https://a360.co/4nqYoPa
+https://a360.co/432911F
 
 ## 5. Outros Modelos
 
