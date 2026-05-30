@@ -49,7 +49,10 @@ Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.
 
 ## Tecnologia
 
-Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D), software paramétrico, ficheiros técnicos.
+Materiais: 
+Processos de fabrico: O corte exterior (contorno) e a abertura dos rasgos lineares e das formas circulares foram executados numa fresadora CNC.
+Software paramétrico:
+Ficheiros técnicos.
 
 - Modelo 3D: <!-- embed Fusion ou link a360.co -->
 - Ficheiros: `attachments/`
