@@ -66,11 +66,15 @@ A criança precisa empilhar, encaixar e contrapor as peças texturadas para cria
 
 **Idade**: +3 anos
 
+**Montagem** 
 
-**Montagem:** Brinquedo com encaixe intuitivo e livre, sem necessidade de ferramentas ou elementos de fixação adicionais. 
-
+Brinquedo com encaixe intuitivo e livre, sem necessidade de ferramentas ou elementos de fixação adicionais. 
 
 **Conformidade com a Diretiva 2009/48/CE.**
+
+*Propriedades Físicas e Mecânicas*: As peças possuem dimensões generosas para evitar riscos de asfixia. Os cantos e detalhes orgânicos arredondados previnem ferimentos por arestas.
+
+*Inflamabilidade e Química*: A madeira é preservada naturalmente em conformidade com a norma EN 71-3.
 
 ## Apresentação
 
