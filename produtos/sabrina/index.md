@@ -4,7 +4,7 @@ icon: lucide/box
 tags: galeria
 status: not-started
 hero_image: ../attachments/hero.jpg
-hero_title: Nome do Produto
+hero_title: Texturitas
 hero_subtitle: Sabrina Rodrigues da Silva · 2025-26
 hero_height: 80vh
 hero_overlay: 0.25
