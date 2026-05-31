@@ -65,12 +65,11 @@ Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.
 
 ## Função
 
-<u>**Como se Brinca?**</u>
-
-<p>Para jogar o Informal, ordenadamente um jogador vai tirar uma carta do baralho, e o tema indicado na carta vai ser a silhueta que o jogador vai ter de desenvolver a partir de peças de madeira com formas abstratas, que, quando estão sobrepostas iluminadas por uma lanterna, a sua sombra vai criar uma nova forma, o objetivo dos outros jogadores vai ser adivinhar qual é o tema.
+<u>**Como se Brinca?**</u> <br>
+Para jogar o Informal, ordenadamente um jogador vai tirar uma carta do baralho, e o tema indicado na carta vai ser a silhueta que o jogador vai ter de desenvolver a partir de peças de madeira com formas abstratas, que, quando estão sobrepostas iluminadas por uma lanterna, a sua sombra vai criar uma nova forma, o objetivo dos outros jogadores vai ser adivinhar qual é o tema.
 Se dentro de um tempo limite os jogadores acertarem, o primeiro a descobrir o tema ganha um ponto, se ninguém descobrir, o jogador que montou a forma ganha o ponto.
 O jogo continuará até o baralho acabar ou se todos os jogadores montarem a sua forma. 
-O vencedor será aquele com mais pontos. </p>
+O vencedor será aquele com mais pontos. 
 
 <u>**Idade - Alvo**</u>
 <p>Para crianças entre os 8 aos 12 anos. </p>
