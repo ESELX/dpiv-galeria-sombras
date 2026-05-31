@@ -38,7 +38,7 @@ Para o teste de tolerância, o tamanho das folgas utilizadas varia de 0,1 mm a 0
 
 Foram executadas experimentações de projeção através da luz e fotografadas com o objetivo de confirmar se o tamanho do diâmetro dos círculos e dos rasgos gerava sombra suficiente para uma projeção nítida na parede/teto.
 
- ![198](attachments/lixa2.jpg)![198](attachments/lixa.jpg)
+ ![196](attachments/lixa2.jpg)
  
 ![608](attachments/pecapvc1.jpg)
 
