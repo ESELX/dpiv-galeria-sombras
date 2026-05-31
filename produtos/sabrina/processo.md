@@ -63,14 +63,14 @@ Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
 **Pranchas Resumo**
 
 ![](attachments/prancha.jpg)
+P*rancha resumo final* 
 
 No final optei pelo pinho de 15 mm.
 
 ![](attachments/prancha2.png)
+*Prancha resumo (processo)*
 
 Na primeira prancha resumo, com esta dinâmica de peças, foi escolhida uma madeira mais escura e depois foram implementadas cores cinzas. Foi observado que isso não funcionava com as madeiras que possuímos no Fablab. 
-
-![](attachments/pranchafail.jpg)
 
 **Desenhos manuais - Medidas**
 
@@ -80,8 +80,10 @@ O trabalho todo tem apenas 3 medidas de contorno externo de forma a manter o min
 
 ![](attachments/medidas.jpg)
 ![128](attachments/resumesketch.png)
+*Esboços no sketchbook*
 
 ![](attachments/pranchafail1.jpg)
+*Primeira prancha resumo*
 
 Na primeira prancha que foi executada nesta unidade curricular, a brincadeira era demasiado evidente e as sombras eram forçadas. Com isto, as crianças iam brincar com o intuito de montar alguma figura e não no sentido de exploração, descartando assim a ideia.
 ## 7. Pesquisa
