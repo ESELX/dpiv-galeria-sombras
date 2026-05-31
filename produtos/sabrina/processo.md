@@ -91,6 +91,8 @@ O teatro de sombras é uma arte muito antiga de contar histórias, originária d
 
 Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).
 
+**Livros**
+
 "Elogio da Sombra" - *Jun'ichirō Tanizaki*
 
 Esta leitura contribui para a exploração da cultura oriental, que valoriza a sombra em vez da luz. Esta obra trouxe para o brinquedo a ideia da sombra ser um mistério.
