@@ -39,13 +39,17 @@ Para o teste de tolerância, o tamanho das folgas utilizadas varia de 0,1 mm a 0
 Foram executadas experimentações de projeção através da luz e fotografadas com o objetivo de confirmar se o tamanho do diâmetro dos círculos e dos rasgos gerava sombra suficiente para uma projeção nítida na parede/teto.
 
 ![](attachments/paper1.jpg)
+*Imagem do protótipo de pvc montado (posição 1)*
 
 ![](attachments/paper2.jpg)
+*Imagem do protótipo de pvc montado (posição 1)*
 
 ![](attachments/paper3.jpg)
+*Imagem do protótipo de pvc montado (posição 2)*
 
 ![395](attachments/pecapvc1.jpg)
 *Imagem das peças lixadas*
+
  ![196](attachments/lixa2.jpg)
  *Imagem das peças por lixar*
 ## 4. Modelos 3D
@@ -55,15 +59,20 @@ https://a360.co/4dGIJIo
 
 ## 5. Outros Modelos
 
-Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
+Devido à facilidade em trabalhar melhor no digital, apenas foram feitas maquetes em cartão fino de forma a perceber como as peças iam encaixar e também visualizar as melhores medidas para começar o projeto digitalmente.
 
+![](attachments/fisico2.jpg)
+*Maquete com peça pequena*
+
+![](attachments/fisico1.jpg)
+*Maquete com peça pequena e grande (encaixe)*
 
 ## 6. Esboços e Pranchas-Resumo
 
 **Pranchas Resumo**
 
 ![](attachments/prancha.jpg)
-P*rancha resumo final* 
+*Prancha resumo final*** 
 
 No final optei pelo pinho de 15 mm.
 
