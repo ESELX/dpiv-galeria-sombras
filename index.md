@@ -1,5 +1,5 @@
 ---
-title: Nome do Grupo x
+title: Sombras
 icon: lucide/users
 tags: galeria
 status: not-started
@@ -12,10 +12,10 @@ hero_align: center
 published: true
 course: DesignDeProdutoIV
 group_name: ""
-group_number: ""
+group_number: L6
 ---
 
-# Nome do Grupo
+# Sombras
 
 > Substituam este parágrafo por uma frase de apresentação do grupo (uma linha, conceptualmente forte). A imagem de capa acima (`attachments/hero.jpg`) deve ser uma **fotografia de conjunto** dos trabalhos do grupo, mais conceptual, que espelhe a estratégia coletiva.
 
@@ -65,7 +65,7 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
   </a>
   <a class="gallery-card" href="produtos/maria_antonia/">
     <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
-    <h3>Nome do Produto</h3>
+    <h3>Informal</h3>
     <p>Maria Antónia</p>
   </a>
     <a class="gallery-card" href="produtos/sabrina/">

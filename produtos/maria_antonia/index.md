@@ -72,6 +72,7 @@ O vencedor será aquele com mais pontos.
 
 <u>**Idade - Alvo**</u> <br>
 Para crianças entre os 8 aos 12 anos. 
+
 <u>**Montagem**</u> <br>
 O processo de montagem é simples e dura poucos minutos. 
 Para conectar as peças abstratas, o jogador deverá usar um encaixe em formato de gancho em qualquer uma das aberturas que se encontram na superfície da peça. Ao encaixá-las poderá acrescentar mais peças através dos encaixes-ganchos.
