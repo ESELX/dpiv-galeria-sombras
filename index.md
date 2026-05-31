@@ -69,7 +69,7 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
     <p>Maria Antónia</p>
   </a>
     <a class="gallery-card" href="produtos/sabrina/">
-    <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
+    <img src="produtos/sabrina/attachments/hero.jpg" alt="" />
     <h3>Texturitas</h3>
     <p>Sabrina</p>
   </a>
