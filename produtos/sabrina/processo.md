@@ -63,7 +63,7 @@ Prancha Resumo
 
 Para as medidas foram escolhidas as que aparecem na imagem devido à conformidade com a Diretiva 2009/48/CE.
 
-No trabalho todo tem apenas 3 medidas de contorno externo de forma a manter o minimalismo. Texturitas é composto pelas peças pequenas (P), grandes (G) e circulares (C).
+O trabalho todo tem apenas 3 medidas de contorno externo de forma a manter o minimalismo. Texturitas é composto pelas peças pequenas (P), grandes (G) e circulares (C).
 
 ![](attachments/medidas.jpg)
 
@@ -90,4 +90,11 @@ O teatro de sombras é uma arte muito antiga de contar histórias, originária d
 
 Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).
 
+"Elogio da Sombra" - *Jun'ichirō Tanizaki*
 
+Esta leitura contribui para a exploração da cultura oriental, que valoriza a sombra em vez da luz. Esta obra trouxe para o brinquedo a ideia da sombra ser um mistério.
+
+
+"Light and Shade in Design" - *Vários Autores*
+
+Enquanto que o outro livro ajudou a definir a ideia da brincadeira, este trouxe conhecimentos acerca da física da sombra, o que contribuiu para uma melhor fundamentação sobre a alteração de escalas e a nitidez das silhuetas.
