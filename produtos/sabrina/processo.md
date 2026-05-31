@@ -56,15 +56,15 @@ Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
 
 **Desenhos manuais - sketchbook**
 
-![128](attachments/resumesketch.png)
-
 ![](attachments/prancha2.png)
+
+![128](attachments/resumesketch.png)
 
 **Desenhos manuais - Medidas**
 
 Para as medidas foram escolhidas as que aparecem na imagem devido à conformidade com a Diretiva 2009/48/CE.
 
-O trabalho todo tem apenas 3 medidas de contorno externo de forma a manter o minimalismo. Texturitas é composto pelas peças pequenas (P), grandes (G) e circulares (C).
+O trabalho todo tem apenas 3 medidas de contorno externo de forma a manter o minimalismo. Texturitas é composta pelas peças pequenas (P), grandes (G) e circulares (C).
 
 ![](attachments/medidas.jpg)
 
