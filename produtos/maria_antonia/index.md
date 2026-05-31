@@ -4,7 +4,7 @@ icon: lucide/box
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
-hero_title: Nome do Produto
+hero_title: Informal
 hero_subtitle: Maria Antónia · 2025-26
 hero_height: 80vh
 hero_overlay: 0.25
@@ -14,7 +14,7 @@ student_name: ""
 student_number: ""
 ---
 
-# Nome do Produto
+# Informal
 
 <!--
   HERO: idealmente uma pseudo-sessão fotográfica do produto
