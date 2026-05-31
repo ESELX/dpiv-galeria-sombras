@@ -1,11 +1,11 @@
 ---
-title: "Nome do Produto"
+title: Informal
 icon: lucide/box
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
-hero_title: "Nome do Produto"
-hero_subtitle: "Nome do Aluno · 2025-26"
+hero_title: Nome do Produto
+hero_subtitle: Maria Antónia · 2025-26
 hero_height: 80vh
 hero_overlay: 0.25
 hero_align: center
@@ -29,7 +29,16 @@ Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
 
 ## Conceito
 
-Ideia central do produto. O que é, para quem, porquê.
+**O que é?**
+Informal é um jogo de adivinhação em que um dos jogadores tem de tirar uma carta do baralho, na qual se indica um objeto, animal ou ação, que este deve construir a partir de peças com formas orgânicas, com o objetivo de as juntar e criar uma silhueta que retrate o tema indicado. 
+Os restantes jogadores vão ter um tempo limite para tentar adivinhar o tema. Se um deles acertar, ganha um ponto, se ninguém acertar dentro do tempo limite, o jogador que construiu a silhueta ganha o ponto.
+O jogo continuará até todos os participantes construírem a sua própria silhueta ou até o baralho acabar. O jogador com mais pontos ganha.
+
+**Para Quem?**
+Para grupos de crianças maiores de 8 anos.
+  
+**Porquê?**
+Este brinquedo incentiva o convívio e a estimulação da criatividade nas crianças, a partir da criação de formas abstratas projetadas através das sombras. Ao mesmo tempo, permite-lhe entrar em contato com um material orgânico, a madeira.
 
 ![](attachments/placeholder.png)
 
