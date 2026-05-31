@@ -3,7 +3,7 @@ title: Informal
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/hero.jpg
+hero_image: attachments/2.png
 hero_title: Informal
 hero_subtitle: Maria Antónia · 2025-26
 hero_height: 80vh
@@ -53,7 +53,8 @@ Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.
 - **Software Paramétrico →**  Autodesk Fusion 360.
 
 <u> **Modelo 3D** </u> <br>
-....
+https://a360.co/4vpjsbM 
+https://a360.co/4nV0UNK
 <br>
 <u> **Ficheiros Técnicos** </u> <br>
 ...
