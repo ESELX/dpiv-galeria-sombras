@@ -59,6 +59,10 @@ Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
 
 ![](attachments/prancha2.png)
 
+Na primeira prancha resumo, com esta dinâmica de peças, foi escolhida uma madeira mais escura e depois foram implementadas cores cinzas. Foi observado que isso não funcionava com as madeiras que possuímos no Fablab. 
+
+![](attachments/prancha.jpg)
+
 **Desenhos manuais - Medidas**
 
 Para as medidas foram escolhidas as que aparecem na imagem devido à conformidade com a Diretiva 2009/48/CE.
@@ -67,6 +71,7 @@ O trabalho todo tem apenas 3 medidas de contorno externo de forma a manter o min
 
 ![](attachments/medidas.jpg)
 ![128](attachments/resumesketch.png)
+![](attachments/prancha%201.jpg)
 ## 7. Pesquisa
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
