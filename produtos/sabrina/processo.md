@@ -55,11 +55,9 @@ Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
 
 ## 6. Esboços e Pranchas-Resumo
 
-**Desenhos manuais - sketchbook**
+**Prancheta Resumo**
 
 ![](attachments/prancha2.png)
-
-![128](attachments/resumesketch.png)
 
 **Desenhos manuais - Medidas**
 
@@ -68,7 +66,7 @@ Para as medidas foram escolhidas as que aparecem na imagem devido à conformidad
 O trabalho todo tem apenas 3 medidas de contorno externo de forma a manter o minimalismo. Texturitas é composta pelas peças pequenas (P), grandes (G) e circulares (C).
 
 ![](attachments/medidas.jpg)
-
+![128](attachments/resumesketch.png)
 ## 7. Pesquisa
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
