@@ -56,9 +56,12 @@ Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
 
 **Esboços - sketchbook**
 
-![214](attachments/sketchbook1.png)
+![128](attachments/sketchbook1.png)
 
-![398](attachments/sketchbook3.png)
+
+
+![232](attachments/sketchbook2.png)
+![232](attachments/sketchbook3.png)
 
 ![](attachments/prancha2.png)
 
