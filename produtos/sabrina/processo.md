@@ -54,8 +54,12 @@ Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
 
 ## 6. Esboços e Pranchas-Resumo
 
-Prancha Resumo
-![](attachments/sketchbook3.png)
+**Esboços - sketchbook**
+
+![214](attachments/sketchbook1.png)
+
+![398](attachments/sketchbook3.png)
+
 ![](attachments/prancha2.png)
 
 **Medidas**
