@@ -52,10 +52,10 @@ Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.
 - **Processo de Fabrico →** Utilização de uma fresadora CNC para fazer os cortes  exteriores, o contorno das peças e corte interior, corte dos encaixes, nas placas de madeira. Finalizado com a utilização de lima para corrigir as imperfeições.
 - **Software Paramétrico →**  Autodesk Fusion 360.
 
-<u> **Modelo 3D** </u>
+<u> **Modelo 3D** </u> <br>
 ....
 <br>
-<u> **Ficheiros Técnicos** </u>
+<u> **Ficheiros Técnicos** </u> <br>
 ...
 
 
