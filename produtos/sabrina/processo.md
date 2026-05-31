@@ -55,13 +55,14 @@ Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
 
 ## 6. Esboços e Pranchas-Resumo
 
-**Prancheta Resumo**
+**Pranchas Resumo**
+![](attachments/prancha.jpg)
+
+No final optei pelo pinho de 15 mm.
 
 ![](attachments/prancha2.png)
 
 Na primeira prancha resumo, com esta dinâmica de peças, foi escolhida uma madeira mais escura e depois foram implementadas cores cinzas. Foi observado que isso não funcionava com as madeiras que possuímos no Fablab. 
-
-![](attachments/prancha.jpg)
 
 **Desenhos manuais - Medidas**
 
@@ -71,6 +72,7 @@ O trabalho todo tem apenas 3 medidas de contorno externo de forma a manter o min
 
 ![](attachments/medidas.jpg)
 ![128](attachments/resumesketch.png)
+
 ![](attachments/prancha%201.jpg)
 ## 7. Pesquisa
 
