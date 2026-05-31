@@ -3,7 +3,7 @@ title: Sombras
 icon: lucide/users
 tags: galeria
 status: not-started
-hero_image: ../attachments/hero.jpg
+hero_image: attachments/hero.jpg
 hero_title: Sombras
 hero_subtitle: Projetamos o teu mundo
 hero_height: 100vh
