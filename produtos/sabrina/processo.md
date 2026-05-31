@@ -67,7 +67,6 @@ O trabalho todo tem apenas 3 medidas de contorno externo de forma a manter o min
 
 ![](attachments/medidas.jpg)
 
-Para as medidas foram escolhidas as que aparecem na imagem 
 ## 7. Pesquisa
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
