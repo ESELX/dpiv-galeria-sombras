@@ -6,7 +6,7 @@ status: not-started
 hero_image: attachments/hero.jpg
 hero_title: Sombras
 hero_subtitle: Projetamos o teu mundo
-hero_height: 100vh
+hero_height: 85vh
 hero_overlay: 0.3
 hero_align: center
 published: true
