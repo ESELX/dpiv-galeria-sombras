@@ -38,7 +38,7 @@ Para o teste de tolerância, o tamanho das folgas utilizadas varia de 0,1 mm a 0
 
 Foram executadas experimentações de projeção através da luz e fotografadas com o objetivo de confirmar se o tamanho do diâmetro dos círculos e dos rasgos gerava sombra suficiente para uma projeção nítida na parede/teto.
 
- ![302](attachments/lixa2.jpg)![302](attachments/lixa.jpg)
+ ![198](attachments/lixa2.jpg)![198](attachments/lixa.jpg)
  
 ![608](attachments/pecapvc1.jpg)
 
@@ -54,7 +54,7 @@ Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
 
 ## 6. Esboços e Pranchas-Resumo
 
-**Esboços - sketchbook**
+**Desenhos manuais - sketchbook**
 
 ![128](attachments/sketchbook1.png)
 
@@ -65,7 +65,7 @@ Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
 
 ![](attachments/prancha2.png)
 
-**Medidas**
+**Desenhos manuais - Medidas**
 
 Para as medidas foram escolhidas as que aparecem na imagem devido à conformidade com a Diretiva 2009/48/CE.
 
@@ -105,3 +105,5 @@ Esta leitura contribui para a exploração da cultura oriental, que valoriza a s
 "Light and Shade in Design" - *Vários Autores*
 
 Enquanto que o outro livro ajudou a definir a ideia da brincadeira, este trouxe conhecimentos acerca da física da sombra, o que contribuiu para uma melhor fundamentação sobre a alteração de escalas e a nitidez das silhuetas.
+
+**Inspirações**
