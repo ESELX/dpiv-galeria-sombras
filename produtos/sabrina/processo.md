@@ -38,7 +38,7 @@ Para o teste de tolerância, o tamanho das folgas utilizadas varia de 0,1 mm a 0
 
 Foram executadas experimentações de projeção através da luz e fotografadas com o objetivo de confirmar se o tamanho do diâmetro dos círculos e dos rasgos gerava sombra suficiente para uma projeção nítida na parede/teto.
 
-![608](attachments/pecapvc1.jpg)
+![395](attachments/pecapvc1.jpg)
 
  ![196](attachments/lixa2.jpg)
  
@@ -56,12 +56,7 @@ Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
 
 **Desenhos manuais - sketchbook**
 
-![128](attachments/sketchbook1.png)
-
-
-
-![232](attachments/sketchbook2.png)
-![232](attachments/sketchbook3.png)
+![128](attachments/resumesketch.png)
 
 ![](attachments/prancha2.png)
 
