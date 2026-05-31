@@ -58,7 +58,16 @@ Exploração de variantes.
 Prancha Resumo
 
 ![](attachments/prancha2.png)
+
+**Medidas**
+
+Para as medidas foram escolhidas as que aparecem na imagem devido à conformidade com a Diretiva 2009/48/CE.
+
+No trabalho todo tem apenas 3 medidas de contorno externo de forma a manter o minimalismo. Texturitas é composto pelas peças pequenas (P), grandes (G) e circulares (C).
+
 ![](attachments/medidas.jpg)
+
+Para as medidas foram escolhidas as que aparecem na imagem 
 ## 7. Pesquisa
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
