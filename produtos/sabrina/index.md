@@ -24,8 +24,6 @@ student_number: ""
 
 > Um conjunto modular de peças geométricas e detalhes orgânicos que ganham tridimensionalidade e vida através da projeção e manipulação da sombra.
 
-A página deve tornar **visualmente percetível** a estratégia de resposta ao enunciado.
-Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
 
 ## Conceito
 
@@ -56,6 +54,7 @@ Software paramétrico: Autodesk Fusion 360
 Ficheiros técnicos.
 
 - Modelo 3D: <!-- embed Fusion ou link a360.co -->
+  
 - Ficheiros: `attachments/`
 
 ## Função
@@ -80,8 +79,8 @@ Brinquedo com encaixe intuitivo e livre, sem necessidade de ferramentas ou eleme
 
 Imagens-chave que sintetizam o produto final.
 
-![](attachments/placeholder.png)
-![](attachments/placeholder.png)
+![](attachments/apresentacao1.jpg)
+![](attachments/apresentacao2.jpg)
 
 ---
 
