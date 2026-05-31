@@ -37,8 +37,8 @@ Antes do protótipo final, foram realizados ensaios específicos para a validaç
 Para o teste de tolerância, o tamanho das folgas utilizadas varia de 0,1 mm a 0,2 mm, o que funcionou corretamente. 
 
 Foram executadas experimentações de projeção através da luz e fotografadas com o objetivo de confirmar se o tamanho do diâmetro dos círculos e dos rasgos gerava sombra suficiente para uma projeção nítida na parede/teto.
-
-![](attachments/placeholder.png)
+ 
+![608](attachments/pecapvc1.jpg)
 
 ## 4. Modelos 3D
 
