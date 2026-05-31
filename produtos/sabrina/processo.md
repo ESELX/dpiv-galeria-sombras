@@ -72,7 +72,7 @@ O trabalho todo tem apenas 3 medidas de contorno externo de forma a manter o min
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
 
-Texturitas distingue-se pela subtração intencional dos materiais para dar origem a uma tridimensionalidade abstrata (sombra). Valorizou-se a estética minimalista através de formas simples e arredondadas, mas dinâmicas
+Texturitas distingue-se pela subtração intencional dos materiais para dar origem a uma tridimensionalidade abstrata (sombra). Valorizou-se a estética minimalista através de formas simples e arredondadas, que transmitem um forte sentido de dinamismo.
 
 ![](attachments/placeholder.png)
 
@@ -102,3 +102,8 @@ Esta leitura contribui para a exploração da cultura oriental, que valoriza a s
 Enquanto que o outro livro ajudou a definir a ideia da brincadeira, este trouxe conhecimentos acerca da física da sombra, o que contribuiu para uma melhor fundamentação sobre a alteração de escalas e a nitidez das silhuetas.
 
 **Inspirações**
+
+![](attachments/inspiracao1.jpg)
+*Ein Schiffbauspiel* ou *Bauhaus Bauspiel / Shipbuilding Game* de *Siedhoff-Buscher*
+
+Este brinquedo é clássico e é composto por 22 peças geométricas de madeira pintadas. Esta inspiração serviu diretamente para a aplicação do minimalismo no brinquedo Texturitas. A abordagem desta designer mostrou que é possível brincar com a redução das peças a formas geométricas simples, o que potencializa a imaginação e a liberdade de montagem. Para além disso, o número de peças (22) obriga as crianças a pensarem numa composição espacial e a exercitarem a sua cultura visual.
