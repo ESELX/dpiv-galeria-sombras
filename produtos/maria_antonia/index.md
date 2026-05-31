@@ -29,13 +29,13 @@ Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
 
 ## Conceito
 
-<u> **O que é?** </u> 
-<p>Informal é um jogo de adivinhação em que um dos jogadores tem de tirar uma carta do baralho, na qual se indica um objeto, animal ou ação, que este deve construir a partir de peças com formas orgânicas, com o objetivo de as juntar e criar uma silhueta que retrate o tema indicado. 
+<p><u> **O que é?** </u> 
+Informal é um jogo de adivinhação em que um dos jogadores tem de tirar uma carta do baralho, na qual se indica um objeto, animal ou ação, que este deve construir a partir de peças com formas orgânicas, com o objetivo de as juntar e criar uma silhueta que retrate o tema indicado. 
 Os restantes jogadores vão ter um tempo limite para tentar adivinhar o tema. Se um deles acertar, ganha um ponto, se ninguém acertar dentro do tempo limite, o jogador que construiu a silhueta ganha o ponto.
 O jogo continuará até todos os participantes construírem a sua própria silhueta ou até o baralho acabar. O jogador com mais pontos ganha. </p>
 
-<u> **Para Quem?** </u>
-<p> Para grupos de crianças maiores de 8 anos. </p>
+<p><u> **Para Quem?** </u><br>
+ Para grupos de crianças maiores de 8 anos. </p>
   
 <u>**Porquê?** </u>
 <p> Este brinquedo incentiva o convívio e a estimulação da criatividade nas crianças, a partir da criação de formas abstratas projetadas através das sombras. Ao mesmo tempo, permite-lhe entrar em contato com um material orgânico, a madeira. </p>
@@ -49,7 +49,8 @@ Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.
 
 ## Tecnologia
 
-<u> **Ficha Técnica:** </u>
+<u> **Ficha Técnica:** </u> 
+
 - **Materiais →** Madeira de Cedro, Madeira de Pinho e Madeira de Castanha. 
 - **Processo de Fabrico →** Utilização de uma fresadora CNC para fazer os cortes  exteriores, o contorno das peças e corte interior, corte dos encaixes, nas placas de madeira. Finalizado com a utilização de lima para corrigir as imperfeições.
 - **Software Paramétrico →**  Autodesk Fusion 360.
