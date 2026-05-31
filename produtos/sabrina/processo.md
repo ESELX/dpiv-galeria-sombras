@@ -45,6 +45,7 @@ Foram executadas experimentações de projeção através da luz e fotografadas 
 ## 4. Modelos 3D
 
 https://a360.co/432911F
+https://a360.co/4dGIJIo
 
 ## 5. Outros Modelos
 
