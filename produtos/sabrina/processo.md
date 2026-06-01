@@ -27,7 +27,10 @@ Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
 
 Maquinação CNC, montagem, acabamentos pontuais. 
 
-![](attachments/placeholder.png)
+![](attachments/cnc2.jpg)
+
+![](attachments/cnc.jpg)
+*Cnc da RedSky* 
 
 
 ## 3. Protótipos Exploratórios
@@ -105,7 +108,11 @@ Texturitas distingue-se pela subtração intencional dos materiais para dar orig
 
 ### 7.2. Objetos de referencia
 
-Inventário de precedentes, brinquedos análogos, referências históricas.
+**Brinquedos Análogos**
+
+**Brinquedos *Montessori*:** pelo uso da madeira ao natural, ressaltando a textura desta.
+
+**Teatro de sombra tradicional:** pelo uso das sombras, como experimentação e aprendizagem de cultura visual, através destas projeções. 
 
 **Referências históricas**
 
