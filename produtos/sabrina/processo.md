@@ -28,6 +28,7 @@ Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
 Maquinação CNC, montagem, acabamentos pontuais. 
 
 ![](attachments/cnc2.jpg)
+*Peças de pinho por lixar* 
 
 ![](attachments/cnc.jpg)
 *Cnc da RedSky* 
