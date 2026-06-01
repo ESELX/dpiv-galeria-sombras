@@ -14,11 +14,9 @@ published: true
 
 # Processo
 
-> Organizado do **mais recente** para o **mais antigo**. Faz uma seleção que torne clara, aprazível e detalhada a evolução do produto e das ideias.
-
 ## 1. Protótipo(s)
 
-Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
+Fotografias em estúdio, com fundo branco, do(s) protótipo(s) final(is).
 
 ![Protótipo final](attachments/placeholder.png)
 ![](attachments/placeholder.png)
