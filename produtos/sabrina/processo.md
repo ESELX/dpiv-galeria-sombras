@@ -7,7 +7,7 @@ hero_image: ../attachments/ilustracao.jpg
 hero_title: Processo
 hero_subtitle: Iterações, modelos, pesquisa
 hero_height: 10vh
-hero_overlay: 0.3
+hero_overlay: 0.1
 hero_align: center
 published: true
 ---
