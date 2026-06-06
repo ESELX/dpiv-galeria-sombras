@@ -141,3 +141,7 @@ Enquanto que o outro livro ajudou a definir a ideia da brincadeira, este trouxe 
 *Ein Schiffbauspiel* ou *Bauhaus Bauspiel / Shipbuilding Game* de *Siedhoff-Buscher*
 
 Este brinquedo é clássico e é composto por 22 peças geométricas de madeira pintadas. Esta inspiração serviu diretamente para a aplicação do minimalismo no brinquedo Texturitas. A abordagem desta designer mostrou que é possível brincar com a redução das peças a formas geométricas simples, o que potencializa a imaginação e a liberdade de montagem. Para além disso, o número de peças (22) obriga as crianças a pensarem numa composição espacial e a exercitarem a sua cultura visual.
+
+![](attachments/Desconforto._Sabrina_2023509_2ºL.pdf)
+
+Foi através do trabalho de escultura que surgiu a ideia de de trazer texturas para o projeto Nestor - Texturitas. Com *Desconforto* consegui ter a perceção da brincadeira e experimentações de escalas e definição de formas.
