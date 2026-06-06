@@ -14,8 +14,6 @@ published: true
 
 # Contexto de Design
 
-Página explicativa do contexto, em concordância com a apresentação produzida em grupo. Componente de **grupo**.
-
 ## 1. Resumo / Abstract
 
 ### Resumo (PT)
@@ -48,7 +46,7 @@ Finally, *Draft* provides a box intended as a canvas, perforated in a grid, whic
 
 Catálogo de objetos de partida que o grupo identificou para o redesenho. Para cada objeto: imagem, origem, motivo da escolha.
 
-![Objeto 1](attachments/placeholder.png)
+![Objeto 1](attachments/objeto1.jpg)
 
 - **Objeto 1** — origem / autoria / razão da escolha
 - **Objeto 2** — ...
