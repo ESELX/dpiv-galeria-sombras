@@ -18,14 +18,29 @@ Página explicativa do contexto, em concordância com a apresentação produzida
 
 ## 1. Resumo / Abstract
 
-> Máximo 500 palavras. Preferencialmente em **PT** e **EN**.
-
 ### Resumo (PT)
 
-Coloque aqui o resumo do projeto em português (máximo 500 palavras).
+A marca Nestor apresenta uma coleção de brinquedos educativos modulares em madeira focados no desenvolvimento cognitivo, na sustentabilidade e na exploração  visual e experimental através da luz e sombra. Esta marca é guiada pelo princípio de desperdício zero, ao usar os restos da máquina CNC. A coleção divide-se em abordagens complementares que estimulam o pensamento tridimensional, a física e a brincadeira livre.
+
+O primeiro projeto, *Mar de Formas*, estabelece as bases da coordenação motora, associação cromática e raciocínio lógico, através dos encaixes por empilhamento.
+
+Evoluindo para a desconstrução das formas, o projeto *Texturitas* foca-se na subtração intencional do material, através de um sistema de peças em forma de U que se sobrepõem por fricção. As peças contêm contornos arredondados, rasgos e perfurações simulando as texturas orgânicas da natureza. Este procura trabalhar o conhecimento visual e físico das sombras.
+
+Com a máxima liberdade, o projeto *Informal* destaca-se por ter um encaixe tridimensional e livre, seguindo também as formas orgânicas que convidam as crianças a decifrar silhuetas projetadas através de cartas de desafio. 
+
+Por fim, *Rascunho* disponibiliza uma caixa com o intuito de tela, perfurada em grelha, que atua como suporte de encaixe para as peças. As crianças podem montar as suas pinturas de sombras.
+
 ### Abstract (EN)
 
-Place here the abstract in English (max 500 words). (sabrina)
+The Nestor brand presents a collection of modular wooden educational toys focused on cognitive development, sustainability, and visual and experimental exploration through light and shadow. This brand is guided by the principle of zero waste, using leftover CNC machine parts. The collection is divided into complementary approaches that stimulate three-dimensional thinking, physics, and free play.
+
+The first project, *Sea of ​​Shapes*, establishes the foundations of motor coordination, color association, and logical reasoning through stacking and interlocking.
+
+Evolving towards the deconstruction of forms, the *Texturitas* project focuses on the intentional subtraction of material through a system of U-shaped pieces that overlap by friction. The pieces contain rounded contours, slits, and perforations simulating the organic textures of nature. This project seeks to work on the visual and physical understanding of shadows.
+
+With maximum freedom, the *Informal* project stands out for its free, three-dimensional design, also following organic forms that invite children to decipher silhouettes projected through challenge cards.
+
+Finally, *Draft* provides a box intended as a canvas, perforated in a grid, which acts as a support for fitting the pieces. Children can assemble their shadow paintings.
 
 ## 2. Referências Coletivas
 
