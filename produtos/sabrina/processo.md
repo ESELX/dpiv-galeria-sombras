@@ -23,7 +23,7 @@ Fotografias em estúdio, com fundo branco, do(s) protótipo(s) final(is).
 
 ## 2. Processo de Prototipagem
 
-Maquinação CNC, montagem, acabamentos pontuais. 
+![](attachments/ilustracao.jpg)
 
 ![](attachments/cnc2.jpg)
 *Peças de pinho por lixar* 
