@@ -43,7 +43,15 @@ Este brinquedo, para além do tato, propõe uma interação com uma fonte de luz
 
 ## Enquadramento
 
-Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.md)) e à recolha de objetos a redesenhar.
+No contexto de grupo, *Texturitas* foi desenvolvido em primeiro lugar, pois é um brinquedo que se liga diretamente à identidade visual da marca por meio das suas texturas. 
+
+Este brinquedo enquadra-se no grupo através do jogo livre, assim como o *Informal* e o *Rascunho*, promovendo a criatividade e a autonomia das crianças, não havendo, por assim dizer, regras, incentivando a criança a ter liberdade na montagem.
+
+A diferenciação deste projeto para com o grupo é a forma como as peças se juntam com os encaixes por fricção. As formas e texturas orgânicas da natureza também são elementos de diferenciação devido às sombras.
+
+*Texturitas* trabalha a sombra por meio da subtração do material, ao contrário dos 3 projetos do grupo. 
+
+ [contexto](../../contexto.md)
 
 ## Tecnologia
 
