@@ -118,11 +118,9 @@ Texturitas distingue-se pela subtração intencional dos materiais para dar orig
 
 O teatro de sombras é uma arte muito antiga de contar histórias, originária da China. Estes utilizavam bonecos de diversas cores e com detalhes variados.
 
-![](attachments/teatro.jpg)
+![](attachments/teatro.pg)
 *Personagens do teatro de sombras chinês*
 ## 8. Outros Elementos
-
-Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).
 
 **Livros**
 
