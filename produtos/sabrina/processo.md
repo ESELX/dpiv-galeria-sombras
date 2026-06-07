@@ -37,6 +37,8 @@ O processo de prototipagem iniciou-se pela preparação do ficheiro digital, ond
 
 ## 3. Protótipos Exploratórios
 
+![](attachments/exploratorio.jpg)
+
 Antes do protótipo final, foram realizados ensaios específicos para a validação das folgas dos encaixes, por meio de um modelo executado em pvc. 
 
 Para o teste de tolerância, o tamanho das folgas utilizadas varia de 0,1 mm a 0,2 mm, o que funcionou corretamente. 
@@ -144,4 +146,4 @@ Este brinquedo é clássico e é composto por 22 peças geométricas de madeira 
 
 ![](attachments/Desconforto._Sabrina_2023509_2ºL.pdf)
 
-Foi através do trabalho de escultura que surgiu a ideia de de trazer texturas para o projeto Nestor - Texturitas. Com *Desconforto* consegui ter a perceção da brincadeira e experimentações de escalas e definição de formas.
+Foi através do trabalho de escultura que surgiu a ideia de trazer texturas para o projeto Nestor - Texturitas. Com *Desconforto* consegui ter a perceção da brincadeira através das experimentações de escalas e definição de formas.
