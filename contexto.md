@@ -61,7 +61,7 @@ Catálogo de objetos de partida que o grupo identificou para o redesenho. Para c
 ![](attachments/autoral.png)
 
 - **Objeto 2** 
-- 
+
 **Origem:** Portugal (2026) 
 
 **Autoria**: Projeto autoral | Desconforto
