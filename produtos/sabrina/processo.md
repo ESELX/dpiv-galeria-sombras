@@ -66,6 +66,8 @@ https://a360.co/4dGIJIo
 
 ## 5. Outros Modelos
 
+![](attachments/maquetes.jpg)
+
 Devido à facilidade em trabalhar melhor no digital, apenas foram feitas maquetes em cartão fino de forma a perceber como as peças iam encaixar e também visualizar as melhores medidas para começar o projeto digitalmente.
 
 ![](attachments/fisico2.jpg)
