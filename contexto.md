@@ -52,15 +52,20 @@ Catálogo de objetos de partida que o grupo identificou para o redesenho. Para c
 - **Objeto 1**  
 
 **Origem:** Alemanha (1923) 
-**Autoria**: Alma Siedhoff-Buscher.
+
+**Autoria**: Alma Siedhoff-Buscher
+
 **Razão da escolha**: Selecionado pelo minimalismo e pelas formas modulares. Também serviu para a seleção do número de peças de alguns brinquedos. Serviu de base conceptual para a marca entender que a partir de poucas peças é possível ter uma brincadeira que cativa a imaginação e criatividade das crianças.
 
 
 ![](attachments/autoral.png)
 
 - **Objeto 2** 
+- 
 **Origem:** Portugal (2026) 
-**Autoria**: Projeto autoral | Desconforto. 
+
+**Autoria**: Projeto autoral | Desconforto
+
 **Razão da escolha**: Selecionado pela forma como as sombras da peça interagem na parede e pelas formas circulares.
 ### 2.2. Moodboard
 
