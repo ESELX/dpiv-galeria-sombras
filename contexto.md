@@ -49,7 +49,7 @@ Catálogo de objetos de partida que o grupo identificou para o redesenho. Para c
 ![](attachments/objeto1.jpg)
 *Objeto 1*
 
-- **Objeto 1**  
+**Objeto 1**  
 
 **Origem:** Alemanha (1923) 
 
@@ -60,7 +60,7 @@ Catálogo de objetos de partida que o grupo identificou para o redesenho. Para c
 
 ![](attachments/autoral.png)
 
-- **Objeto 2** 
+**Objeto 2** 
 
 **Origem:** Portugal (2026) 
 
