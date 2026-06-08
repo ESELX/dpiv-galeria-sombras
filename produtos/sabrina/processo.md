@@ -114,6 +114,7 @@ O trabalho todo tem apenas 3 medidas de contorno externo de forma a manter o min
 Na primeira prancha que foi executada nesta unidade curricular, a brincadeira era demasiado evidente e as sombras eram forçadas. Com isto, as crianças iam brincar com o intuito de montar alguma figura e não no sentido de exploração, descartando assim a ideia.
 ## 7. Pesquisa
 
+![](attachments/pesquisaa.jpg)
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
 
 Texturitas distingue-se pela subtração intencional dos materiais para dar origem a uma tridimensionalidade abstrata (sombra). Valorizou-se a estética minimalista através de formas simples e arredondadas, que transmitem um forte sentido de dinamismo.
