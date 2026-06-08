@@ -19,6 +19,8 @@ published: true
 Fotografias em estúdio, com fundo branco, do(s) protótipo(s) final(is).
 
  ![](attachments/prototipobanner.png)
+![](attachments/final4.png)
+*Protótipo Final*
 
 ![](attachments/final1.png)
 *Protótipo final - plano geral*
