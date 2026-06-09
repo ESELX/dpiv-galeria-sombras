@@ -62,9 +62,9 @@ Processos de fabrico: O corte exterior (contorno) e a abertura dos rasgos linear
 Software paramétrico: Autodesk Fusion 360
 
 
-- Modelo 3D: <!-- embed Fusion ou link a360.co -->
+-> Modelo 3D: <!-- embed Fusion ou link a360.co -->
   
-- Ficheiros técnicos: `attachments/`
+->Ficheiros técnicos: `attachments/`
 
 ## Função
 

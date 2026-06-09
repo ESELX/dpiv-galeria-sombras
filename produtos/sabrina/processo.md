@@ -85,8 +85,9 @@ Devido à facilidade em trabalhar melhor no digital, apenas foram feitas maquete
 
 ## 6. Esboços e Pranchas-Resumo
 
-**Pranchas Resumo**
 ![](attachments/esbocos.jpg)
+
+**Pranchas Resumo**
 
 ![](attachments/prancha.jpg)
 *Prancha resumo final*** 
