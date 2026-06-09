@@ -34,7 +34,12 @@ group_number: L6
 ![](attachments/placeholder.png)
 > Nesta zona pretenderão mostrar o que relaciona estes produtos que apresentam na galeria - a temática, conceito comum, objectivos comuns, brincadeiras (funções) comuns, entre outros...
 
-(devem colocar imagens no corpo a qq momento, bastará que as arrastem para aqui.)
+
+A linha de produtos da marca Nestor interliga-se pela união da exploração da brincadeira através da luz e projeção de sombras. O conceito comum que influencia toda a coleção é a transformação de figuras tridimensionais, com volume, em estímulos visuais, sem volume, através da projeção da luz, com a ajuda de lanternas físicas ou até mesmo os telefones. Por meio destas formas é possível construir cenários e histórias em ambientes de lazer.
+
+Como temáticas esta gama de brinquedos trabalha as diferentes idades, com objetivo de ter um acompanhamento do crescimento das crianças, adaptando-se de forma progressiva às suas necessidades. Intencionalmente, estes quatro produtos buscam o crescimento. 
+
+A etapa inicial é o Mar de Formas, que concentra-se no simples empilhamento na orientação vertical. *Texturitas* e *Informal* introduzem encaixes por fricção exigindo uma maturidade cognitiva. Por último, *Rascunho* representando desafios através da narrativa das sombras.
 
 Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md](contexto.md).
 
