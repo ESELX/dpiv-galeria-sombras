@@ -24,7 +24,7 @@ Com isto, as temáticas foram divididas por idades de forma a que haja um acompa
 
 O primeiro projeto, *Mar de Formas*, estabelece as bases da coordenação motora, da associação cromática e do raciocínio lógico por meio de encaixes por empilhamento.
 
-Evoluindo para a desconstrução das formas, o projeto *Texturitas* foca-se na subtração intencional do material, através de um sistema de peças em forma de U que se sobrepõem por fricção. As peças contêm contornos arredondados, rasgos e perfurações simulando as texturas orgânicas da natureza. Este procura trabalhar o conhecimento visual e físico das sombras.
+Evoluindo para a desconstrução das formas, o projeto *Texturitas* foca-se na retirada intencional do material, através de um sistema de peças em forma de U que se sobrepõem por fricção. As peças contêm contornos arredondados, rasgos e perfurações simulando as texturas orgânicas da natureza. Este procura trabalhar o conhecimento visual e físico das sombras.
 
 Com a máxima liberdade, o projeto *Informal* destaca-se por ter um encaixe tridimensional e livre, seguindo também as formas orgânicas que convidam as crianças a decifrar silhuetas projetadas através de cartas de desafio. 
 
