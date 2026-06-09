@@ -64,8 +64,9 @@ Software paramétrico: Autodesk Fusion 360
 
 -> Modelo 3D: <!-- embed Fusion ou link a360.co -->
   
-->Ficheiros técnicos: `attachments/`
+->Ficheiros técnicos: 
 
+![](attachments/desenhost.pdf)
 ## Função
 
 **Como se brinca?**
