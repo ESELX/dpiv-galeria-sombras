@@ -6,7 +6,7 @@ status: not-started
 hero_image: ../attachments/processo1.jpg
 hero_title: Processo
 hero_subtitle: Iterações, modelos, pesquisa
-hero_height: 10vh
+hero_height: 100vh
 hero_overlay: 0.1
 hero_align: center
 published: true

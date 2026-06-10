@@ -6,7 +6,7 @@ status: not-started
 hero_image: attachments/hero.jpg
 hero_title: Texturitas
 hero_subtitle: Sabrina Rodrigues da Silva · 2025-26
-hero_height: 200 vh
+hero_height: 100vh
 hero_overlay: 0.3
 hero_align: center
 published: true
