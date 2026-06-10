@@ -138,6 +138,8 @@ O teatro de sombras é uma arte muito antiga de contar histórias, originária d
 *Teatro de sombras chinês*
 ## 8. Outros Elementos
 
+![](attachments/outros.jpg)
+
 **Livros**
 
 "Elogio da Sombra" - *Jun'ichirō Tanizaki*
