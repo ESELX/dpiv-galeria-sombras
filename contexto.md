@@ -49,6 +49,7 @@ With maximum freedom, the *Informal* project stands out for its free, three-dime
 Catálogo de objetos de partida que o grupo identificou para o redesenho. Para cada objeto: imagem, origem, motivo da escolha.
 
 ![](attachments/objeto1.jpg)
+
 *Objeto 1*
 
 **Objeto 1**  
@@ -61,6 +62,8 @@ Catálogo de objetos de partida que o grupo identificou para o redesenho. Para c
 
 
 ![](attachments/autoral.png)
+
+*Objeto 2*
 
 **Objeto 2** 
 
