@@ -57,9 +57,10 @@ https://a360.co/4vpjsbM
 https://a360.co/4nV0UNK
 <br>
 <u> **Ficheiros Técnicos** </u> <br>
-...
+![](attachments/ficha%20tecnica%20-%201%20-%20vistas%20v1%201.pdf)
 
-
+![](attachments/ficha%20tecnica%20-%202%20-%20medidas%201.pdf)
+![](attachments/ficha%20tecnica%203%20-%20explodida%20v2%201.pdf)
 <!--- Modelo 3D: <!-- embed Fusion ou link a360.co 
 - Ficheiros: `attachments/` --> 
 
