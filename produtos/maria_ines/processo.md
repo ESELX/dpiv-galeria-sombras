@@ -18,10 +18,11 @@ published: true
 
 ## 1. Protótipo(s)
 
-Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
-
-![Protótipo final](attachments/placeholder.png)
-![](attachments/placeholder.png)
+![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.43%20(5).jpeg)
+![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.42%201.jpeg)
+![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.43%20(6).jpeg)
+![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.44%20(5).jpeg)
+![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.44%20(2).jpeg)
 
 ## 2. Processo de Prototipagem
 
