@@ -34,10 +34,7 @@ Infelizmente não tive possibilidade de cortar paredes da caixa e mais peças, d
 
 ## 2. Processo de Prototipagem
 
-Maquinação CNC, montagem, acabamentos pontuais. 
-
-![](attachments/placeholder.png)
-
+![](attachments/cnc%201.jpg)
 
 ## 3. Protótipos Exploratórios
 Antes de cortar, senti a necessidade de fazer testes em PVC, para garantir a funcionalidade do brinquedo, ao testar os encaixes, antes de ser cortado em madeira.
@@ -62,7 +59,7 @@ Antes de prosseguir para o protótipo final, achei por bem desenvolver manualmen
 ## 6. Esboços e Pranchas-Resumo
 
 ![](attachments/WhatsApp%20Image%202026-06-13%20at%2016.55.29.jpeg)
-*Prancha resumo final
+*Prancha resumo final*
 
 Desenhos manuais, 
 pranchas A3 de síntese, 
@@ -73,6 +70,7 @@ exploração de variantes.
 ## 7. Pesquisa
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
+O desenvolvimento do projeto baseou-se na exploração da relação entre luz, sombra e forma. Foram valorizadas formas orgânicas e simplificadas, caracterizadas por contornos suaves e recortes estratégicos que permitem a passagem da luz. A desconstrução da forma foi conseguida através da subtração de material, criando vazios que originam projeções e padrões de sombra variados. Esta abordagem confere ao objeto uma linguagem visual minimalista e lúdica, estimulando a imaginação e a interpretação livre por parte da criança.
 
 ![](attachments/placeholder.png)
 
