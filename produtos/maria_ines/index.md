@@ -33,11 +33,11 @@ Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
 
 O Rascunho é um brinquedo de encaixe composto por uma variedade de peças  que quando observas não têm um formato concreto, mas com a junção das suas sombras e da imaginação já pudemos observar algo que antes não aparecia nada, mas que depois pode se tornar qualquer coisa através disso as crianças podem criar os seus mundos e fazer desta forma pinturas de sombras na parede. O conceito surgiu da ideia das crianças puderem imaginar tudo o que quiserem sem limites, terem vários resultados finais e sentirem o prazer de ver algo feito por elas mesmas.
 
-<u>** Para quem? ** </u>
+<u>**Para quem?**</u>
 
 Desenvolvido para crianças a partir dos 5 anos.
 
-<u>** Porque? **</u>
+<u>**Porque?**</u>
 
 Este brinquedo promove a criatividade e a imaginação das crianças através da exploração de luz e sombra. As perfurações e aberturas existentes nas peças de madeira permitem a projeção de diferentes padrões luminosos nas superfícies envolventes, incentivando a criação de formas e composições variadas. Além da componente lúdica, proporciona uma experiência sensorial pelo contacto direto com a madeira, um material natural, despertando a curiosidade e incentivando a descoberta de fenómenos relacionados com a luz de forma intuitiva e divertida
 
@@ -51,19 +51,19 @@ Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.
 
 ## Tecnologia
 
-<u>** Materiais: **</u>  Madeira de Pinho e Madeira Castanha
+<u>**Materiais:**</u>  Madeira de Pinho e Madeira Castanha
 
 <u>**Processos de fabrico:**</u>  As peças foram produzidas em placas de madeira, recorrendo a uma fresadora CNC, que permitiu executar o perfil exterior, as aberturas internas e os diferentes encaixes necessários. Após a fase de maquinagem, procedeu-se ao lixamento das superfícies e arestas, de forma a eliminar pequenas irregularidades e melhorar o acabamento final.
 
-<u>** Software paramétrico: **</u>  Autodesk Fusion 360
+<u>**Software paramétrico:**</u>  Autodesk Fusion 360
 
 <u>**Modelo 3D**</u>
 https://a360.co/4vQhiC8 
   
   
-Ficheiros técnicos
+<u>**Ficheiros técnicos**</u> 
 
- `attachments/fichastecnicas_mariaines.pdf`
+![](attachments/fichastecnicas_mariaines.pdf)
 
 ## Função
 
@@ -81,7 +81,7 @@ No final, ao projetar a luz de uma lanterna sobre a estrutura, é possível obse
 
 Para se poder juntar as peças umas às outras, deverá ser usado um encaixe/peça extra em formato de “E” nas aberturas das peças ou de uma das paredes. Sempre que a pessoa quiser usar mais peças, terá de usar o encaixe “E”.
 
- <u>**Conformidade com a Diretiva 2009/48/CE **</u>
+ <u>**Conformidade com a Diretiva 2009/48/CE**</u>
  
  As peças possuem dimensões grandes para evitar o consumo de peças e causar assim asfixia. O seu arredondamento nos cantos para além de dar um ar mais “fofo” as peças, serve principalmente para prevenir quaisqueres tipos de ferimentos através das superfícies pontiagudas. As madeiras usadas para o seu fabrico para além de serem 100% naturais são também leves não só para ser mais fácil para as crianças brincarem como também para evitar alguns ferimentos físicos.
 
