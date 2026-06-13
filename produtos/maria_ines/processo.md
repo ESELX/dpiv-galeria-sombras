@@ -17,12 +17,12 @@ published: true
 > Organizado do **mais recente** para o **mais antigo**. Faz uma seleção que torne clara, aprazível e detalhada a evolução do produto e das ideias.
 
 ## 1. Protótipo(s)
-
+![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.44%20(5).jpeg)
 ![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.43%20(5).jpeg)
+![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.44%20(2).jpeg)
 ![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.42%201.jpeg)
 ![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.43%20(6).jpeg)
-![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.44%20(5).jpeg)
-![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.44%20(2).jpeg)
+![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.43%20(2).jpeg)
 
 ## 2. Processo de Prototipagem
 
@@ -33,15 +33,15 @@ Maquinação CNC, montagem, acabamentos pontuais.
 
 ## 3. Protótipos Exploratórios
 
-Testes CNC prévios, ensaios em escala, experiências de juntas/encaixes.
+![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.44%20(1).jpeg)
+![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.44.jpeg)
+![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.45%20(3).jpeg)
+![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.45%20(4).jpeg)
 
-![](attachments/placeholder.png)
-
+![](attachments/WhatsApp%20Image%202026-06-13%20at%2017.21.57.jpeg)
 ## 4. Modelos 3D
 
-Embed do Fusion (visualização do modelo paramétrico).
-
-https://a360.co/4nqYoPa
+https://a360.co/4vQhiC8 
 
 ## 5. Outros Modelos
 
@@ -51,11 +51,13 @@ Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
 
 ## 6. Esboços e Pranchas-Resumo
 
+![](attachments/WhatsApp%20Image%202026-06-13%20at%2016.55.29.jpeg)
+
 Desenhos manuais, 
 pranchas A3 de síntese, 
 exploração de variantes.
 
-![](attachments/placeholder.png)
+
 
 ## 7. Pesquisa
 
