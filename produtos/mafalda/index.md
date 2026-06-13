@@ -45,7 +45,7 @@ A proposta inspira-se em brinquedos tradicionais de encaixe e classificação de
 → Expessura da base de 15mm  
 → Acabamentos com tintas e vernizes não tóxicos  
   
-<u>**Processos: **</u>
+<u>**Processos:**</u>
 
 1. Modelação paramétrica em Autodesk Fusion 360
     
@@ -57,13 +57,13 @@ A proposta inspira-se em brinquedos tradicionais de encaixe e classificação de
     
 5. Montagem final  
 
-<u>** Software: **</u>  
+<u>**Software:**</u>  
 Autodesk Fusion 360  
 
-<u>** Modelo 3D **</u>
+<u>**Modelo 3D**</u>
 https://a360.co/4oyLEqo 
 
-<u>** Ficheiros Técnicos: **</u>
+<u>**Ficheiros Técnicos:**</u>
 …..  
   
 
