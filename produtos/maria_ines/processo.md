@@ -21,15 +21,15 @@ published: true
 Protótipo Final
 
 Feito em placa PVC e placa de madeira contraplacado, ambos com espessura de 12 mm.
-
+Infelizmente não tive possibilidade de cortar paredes da caixa e mais peças, devido ao seu enorme tamanho das paredes e à falta de materiais.
 ![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.44%20(5).jpeg)
 *Protótipo Final*
 ![697](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.43%20(5).jpeg)
 
 ![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.44%20(2).jpeg)
 *Encaixes em E*
-![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.42%201.jpeg)
-![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.43%20(6).jpeg)
+
+
 ![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.43%20(2).jpeg)
 
 ## 2. Processo de Prototipagem
@@ -40,8 +40,12 @@ Maquinação CNC, montagem, acabamentos pontuais.
 
 
 ## 3. Protótipos Exploratórios
+Antes de cortar, senti a necessidade de fazer testes em PVC, para garantir a funcionalidade do brinquedo, ao testar os encaixes, antes de ser cortado em madeira.
 
-.....
+![](attachments/20260613_235131.jpg)
+![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.42%201.jpeg)
+![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.43%20(6).jpeg)
+
 ## 4. Modelos 3D
 
 https://a360.co/4vQhiC8 
