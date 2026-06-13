@@ -90,7 +90,7 @@ Devido à facilidade em trabalhar melhor no digital, apenas foram feitas maquete
 **Pranchas Resumo**
 
 ![](attachments/prancha.jpg)
-*Prancha resumo final*** 
+*Prancha resumo final*
 
 No final optei pelo pinho de 15 mm.
 

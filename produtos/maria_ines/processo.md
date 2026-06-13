@@ -48,6 +48,8 @@ https://a360.co/4vQhiC8
 
 ## 5. Outros Modelos
 
+Antes de prosseguir para o protótipo final, achei por bem desenvolver manualmente maquetes de cartão para ter uma melhor noção das medidas das peças,  se os encaixes funcionavam corretamente, e como elas iriam reagir ao serem expostas à luz.
+
 ![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.44%20(1).jpeg)
 ![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.44.jpeg)
 ![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.45%20(3).jpeg)
@@ -56,6 +58,7 @@ https://a360.co/4vQhiC8
 ## 6. Esboços e Pranchas-Resumo
 
 ![](attachments/WhatsApp%20Image%202026-06-13%20at%2016.55.29.jpeg)
+*Prancha resumo final
 
 Desenhos manuais, 
 pranchas A3 de síntese, 
