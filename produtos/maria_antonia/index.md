@@ -63,7 +63,7 @@ https://a360.co/4nV0UNK
 ![](attachments/ficha%20tecnica%203%20-%20explodida%20v2%201.pdf)
 <!--- Modelo 3D: <!-- embed Fusion ou link a360.co 
 - Ficheiros: `attachments/` --> 
-
+ `attachments/fichastecnicas_mariaantonia.pdf`
 ## Função
 
 <u>**Como se Brinca?**</u> <br>
