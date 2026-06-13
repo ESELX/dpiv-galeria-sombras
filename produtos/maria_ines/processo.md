@@ -17,9 +17,17 @@ published: true
 > Organizado do **mais recente** para o **mais antigo**. Faz uma seleção que torne clara, aprazível e detalhada a evolução do produto e das ideias.
 
 ## 1. Protótipo(s)
+
+Protótipo Final
+
+Feito em placa PVC e placa de madeira contraplacado, ambos com espessura de 12 mm.
+
 ![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.44%20(5).jpeg)
-![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.43%20(5).jpeg)
+*Protótipo Final*
+![697](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.43%20(5).jpeg)
+
 ![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.44%20(2).jpeg)
+*Encaixes em E*
 ![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.42%201.jpeg)
 ![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.43%20(6).jpeg)
 ![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.43%20(2).jpeg)
@@ -33,22 +41,18 @@ Maquinação CNC, montagem, acabamentos pontuais.
 
 ## 3. Protótipos Exploratórios
 
-![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.44%20(1).jpeg)
-![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.44.jpeg)
-![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.45%20(3).jpeg)
-![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.45%20(4).jpeg)
-
-![](attachments/WhatsApp%20Image%202026-06-13%20at%2017.21.57.jpeg)
+.....
 ## 4. Modelos 3D
 
 https://a360.co/4vQhiC8 
 
 ## 5. Outros Modelos
 
-Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
-
-![](attachments/placeholder.png)
-
+![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.44%20(1).jpeg)
+![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.44.jpeg)
+![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.45%20(3).jpeg)
+![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.45%20(4).jpeg)
+![](attachments/WhatsApp%20Image%202026-06-13%20at%2017.21.57.jpeg)
 ## 6. Esboços e Pranchas-Resumo
 
 ![](attachments/WhatsApp%20Image%202026-06-13%20at%2016.55.29.jpeg)
