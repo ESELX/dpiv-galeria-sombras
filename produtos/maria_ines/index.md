@@ -3,7 +3,7 @@ title: Rascunho
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/hero.jpg
+hero_image: attachments/rascunho.png
 hero_title: Rascunho
 hero_subtitle: Maria Inês · 2025-26
 hero_height: 80vh
@@ -47,6 +47,7 @@ Este brinquedo promove a criatividade e a imaginação das crianças através da
 ## Enquadramento
 
 Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.md)) e à recolha de objetos a redesenhar.
+
 
 ## Tecnologia
 
