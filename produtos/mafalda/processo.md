@@ -14,8 +14,6 @@ published: true
 
 # Processo
 
-> Organizado do **mais recente** para o **mais antigo**. Faz uma seleção que torne clara, aprazível e detalhada a evolução do produto e das ideias.
-
 ## 1. Protótipo(s)
 
 Protótipo Final - Feito em PVC, com espessura de 15mm.
