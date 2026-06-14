@@ -3,7 +3,7 @@ title: Contexto de Design
 icon: lucide/book-open
 tags: galeria
 status: not-started
-hero_image: ../attachments/capa.jpg
+hero_image: ../attachments/todos_final.jpg
 hero_title: Contexto de Design
 hero_subtitle: Enquadramento do grupo
 hero_height: 30vh
