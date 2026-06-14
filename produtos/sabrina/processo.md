@@ -40,7 +40,7 @@ Fotografias em estúdio, com fundo branco, do(s) protótipo(s) final(is).
 ![](attachments/cnc.jpg)
 *Cnc da RedSky* 
 
-O processo de prototipagem iniciou-se pela preparação do ficheiro digital, onde as peças foram todas distribuídas numa placa de 600 mm por 600 mm. Após isto, procedeu-se à maquinação na CNC Router da RedSky, que realizou um corte automatizado a partir de uma chapa de pinho. Após o corte da mesma, foi necessário fazer a remoção das farpas à volta da peça com uma lixa de 120. O trabalho de lixagem foi todo executado à mão. 
+O processo de prototipagem iniciou-se pela preparação do ficheiro digital, onde as peças foram todas distribuídas numa placa de 600 mm por 800 mm. Após isto, procedeu-se à maquinação na CNC Router da RedSky, que realizou um corte automatizado a partir de uma chapa de pinho. Após o corte da mesma, foi necessário fazer a remoção das farpas à volta da peça com uma lixa de 120. O trabalho de lixagem foi todo executado à mão. 
 
 ## 3. Protótipos Exploratórios
 
