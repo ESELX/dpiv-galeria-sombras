@@ -31,8 +31,8 @@ group_number: L6
 ---
 
 ## Contexto de Design
-![](attachments/placeholder.png)
-> Nesta zona pretenderão mostrar o que relaciona estes produtos que apresentam na galeria - a temática, conceito comum, objectivos comuns, brincadeiras (funções) comuns, entre outros...
+
+![](attachments/todos.jpg)
 
 
 A linha de produtos da marca Nestor interliga-se pela união da exploração da brincadeira através da luz e projeção de sombras. O conceito comum que influencia toda a coleção é a transformação de figuras tridimensionais, com volume, em estímulos visuais, sem volume, através da projeção da luz, com a ajuda de lanternas físicas ou até mesmo os telefones. Por meio destas formas é possível construir cenários e histórias em ambientes de lazer.
