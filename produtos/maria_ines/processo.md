@@ -129,6 +129,9 @@ O desenvolvimento do Rascunho teve como principais referências o teatro de somb
 
 ![300](attachments/magnetico.jpg)
 *Quadro Magnético*
+
+![300](attachments/lousamagnetica.jpeg)
+*Quadro Magnético Infantil*
 ## 8. Outros Elementos
 
 Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).
