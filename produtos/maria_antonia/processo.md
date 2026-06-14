@@ -3,7 +3,7 @@ title: Processo
 icon: lucide/git-branch
 tags: galeria
 status: not-started
-hero_image: ../attachments/banner_processo.jpeg
+hero_image: ../attachments/processo_banner_ma.jpeg
 hero_title: Processo
 hero_subtitle: Iterações, modelos, pesquisa
 hero_height: 100vh
