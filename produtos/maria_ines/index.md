@@ -90,10 +90,11 @@ Para se poder juntar as peças umas às outras, deverá ser usado um encaixe/pe�
 
 ## Apresentação
 
-Imagens-chave que sintetizam o produto final.
+![](attachments/rascunho.png)
 
-![](attachments/placeholder.png)
-![](attachments/placeholder.png)
+![](attachments/rascunho2.png)
+
+![](attachments/menino.png)
 
 ---
 

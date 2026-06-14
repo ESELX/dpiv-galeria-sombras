@@ -50,6 +50,10 @@ Antes de cortar, senti a necessidade de fazer testes em PVC, para garantir a fun
 
 https://a360.co/4vQhiC8 
 https://a360.co/4fKFlxr
+
+<u>**Render**</u>
+![](attachments/rascunho%201.png)
+![](attachments/rascunho2%201.png)
 ## 5. Outros Modelos
 
 Antes de prosseguir para o protótipo final, achei por bem desenvolver manualmente maquetes de cartão para ter uma melhor noção das medidas das peças,  se os encaixes funcionavam corretamente, e como elas iriam reagir ao serem expostas à luz.
