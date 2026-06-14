@@ -3,7 +3,7 @@ title: Informal
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/2.png
+hero_image: attachments/2.jpg
 hero_title: Informal
 hero_subtitle: Maria Antónia · 2025-26
 hero_height: 80vh
@@ -57,11 +57,7 @@ https://a360.co/4vpjsbM
 https://a360.co/4nV0UNK
 <br>
 <u> **Ficheiros Técnicos** </u> <br>
-...
-
-
-<!--- Modelo 3D: <!-- embed Fusion ou link a360.co 
-- Ficheiros: `attachments/` --> 
+![](attachments/fichatecnica_mariaantonia.pdf)
 
 ## Função
 
