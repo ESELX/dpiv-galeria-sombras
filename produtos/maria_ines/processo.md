@@ -80,6 +80,10 @@ O meu primeiro projeto referente à primeira prancha resumo era um brinquedo par
 
 ![](attachments/WhatsApp%20Image%202026-06-13%20at%2016.51.35.jpeg)
 *Primeira Proposta de Prancha Resumo*
+![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.41%20(1).jpeg)
+*Maquetes da primeira proposta, feitas com cartão e papel de alumínio*
+![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.45.jpeg)
+
 ![](attachments/WhatsApp%20Image%202026-06-13%20at%2014.29.57%20(1).jpeg)
 *Esboços das primeiras ideias*
 ![](attachments/WhatsApp%20Image%202026-06-13%20at%2014.29.57%20(5).jpeg)
@@ -88,9 +92,6 @@ O meu primeiro projeto referente à primeira prancha resumo era um brinquedo par
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
 O desenvolvimento do projeto baseou-se na exploração da relação entre luz, sombra e forma. Foram valorizadas formas orgânicas e simplificadas, caracterizadas por contornos suaves e recortes estratégicos que permitem a passagem da luz. A desconstrução da forma foi conseguida através da subtração de material, criando vazios que originam projeções e padrões de sombra variados. Esta abordagem confere ao objeto uma linguagem visual minimalista e lúdica, estimulando a imaginação e a interpretação livre por parte da criança.
-
-![](attachments/placeholder.png)
-
 ### 7.2. Objetos de referencia
 
 O desenvolvimento do Rascunho teve como principais referências o teatro de sombras, pela capacidade de criar narrativas através da projeção de formas e silhuetas; a pintura e a expressão artística, pela liberdade criativa e pela possibilidade de múltiplas interpretações; e os quadros magnéticos, pela construção de composições visuais a partir da organização de diferentes elementos. Estas referências contribuíram para a criação de um brinquedo que combina construção, imaginação e exploração da luz como meio de expressão.
