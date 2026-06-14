@@ -90,11 +90,11 @@ Por fim, com medo do problema da folga, tentei fazer uma maquete com esferovite,
 
 ## 6. Esboços e Pranchas-Resumo
 
-Desenhos manuais, 
-pranchas A3 de síntese, 
-exploração de variantes.
+**<u>**Pracha-resumo Final**</u>
+![](attachments/pracha%20resumo%20-%20Maria%20Antonia%20Neves6.png)
 
-![](attachments/placeholder.png)
+
+
 
 ## 7. Pesquisa
 
