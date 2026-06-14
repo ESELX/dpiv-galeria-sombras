@@ -3,7 +3,7 @@ title: Mar de Formas
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/hero.jpg
+hero_image: attachments/banner_mafalda.png
 hero_title: Mar de Formas
 hero_subtitle: Mafalda · 2025-26
 hero_height: 80vh

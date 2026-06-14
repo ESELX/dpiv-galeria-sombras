@@ -59,7 +59,7 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
   <!-- duplicar o bloco abaixo para cada produto do grupo -->
 
   <a class="gallery-card" href="produtos/mafalda/">
-    <img src="produtos/mafalda/attachments/banner_mafalda.jpg" alt="" />
+    <img src="produtos/mafalda/attachments/banner_mafalda.png" alt="" />
     <h3>Nome do Produto</h3>
     <p>Mafalda</p>
   </a>
