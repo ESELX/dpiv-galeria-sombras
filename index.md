@@ -32,7 +32,7 @@ group_number: L6
 
 ## Contexto de Design
 
-![](attachments/todos.jpg)
+![](attachments/todos_final.jpg)
 *Imagem gerada com Firefly 5 - Photoshop*
 
 A linha de produtos da marca Nestor interliga-se pela união da exploração da brincadeira através da luz e projeção de sombras. O conceito comum que influencia toda a coleção é a transformação de figuras tridimensionais, com volume, em estímulos visuais, sem volume, através da projeção da luz, com a ajuda de lanternas físicas ou até mesmo os telefones. Por meio destas formas é possível construir cenários e histórias em ambientes de lazer.
