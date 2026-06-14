@@ -63,7 +63,7 @@ Software paramétrico: Autodesk Fusion 360
 
 
 -> Modelo 3D: 
-https://a360.co/4vOimq4
+https://a360.co/3QFZuuo
 https://a360.co/4vOimq4
   
 ->Ficheiros técnicos: 
