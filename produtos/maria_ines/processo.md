@@ -87,13 +87,14 @@ A caixa, montada em formato retangular, tem 25 de altura e 40 de comprimento.
 ![](attachments/WhatsApp%20Image%202026-06-13%20at%2014.29.57%20(7).jpeg)
 *Esboços e Estudos de Forma das Peças*
 
-
-
-<u>**Esboços**</u>
-O meu primeiro projeto referente à primeira prancha resumo era um brinquedo para crianças de 2 anos que consistia em encaixar as peças das formas correspondentes a cada e vinha junto ainda com umas maiores, mas essas aí metia-se luz pelo buraco pequeno da peça e pelo grande saía a sombra pretendida, mas como a sombra era obrigada e não natural sendo demasiados evidentes.
+<u>**Antigas Propostas**</u>
 
 ![](attachments/WhatsApp%20Image%202026-06-13%20at%2016.51.35.jpeg)
 *Primeira Proposta de Prancha Resumo*
+
+O meu primeiro projeto referente à primeira prancha resumo era um brinquedo para crianças de 2 anos que consistia em encaixar as peças das formas correspondentes a cada e vinha junto ainda com umas maiores, mas essas aí metia-se luz pelo buraco pequeno da peça e pelo grande saía a sombra pretendida, mas como a sombra era obrigada e não natural sendo demasiados evidentes.
+
+
 ![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.41%20(1).jpeg)
 *Maquetes da primeira proposta, feitas com cartão e papel de alumínio*
 
@@ -101,8 +102,9 @@ O meu primeiro projeto referente à primeira prancha resumo era um brinquedo par
 
 ![](attachments/WhatsApp%20Image%202026-06-13%20at%2014.29.57%20(1).jpeg)
 *Esboços das primeiras ideias*
-![](attachments/WhatsApp%20Image%202026-06-13%20at%2014.29.57%20(5).jpeg)
+
 ![](attachments/WhatsApp%20Image%202026-06-13%20at%2014.29.57%20(2).jpeg)
+*Estudo dos encaixes e desenvolvimento para um nova proposta*
 ## 7. Pesquisa
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
@@ -110,9 +112,16 @@ O desenvolvimento do projeto baseou-se na exploração da relação entre luz, s
 ### 7.2. Objetos de referencia
 
 O desenvolvimento do Rascunho teve como principais referências o teatro de sombras, pela capacidade de criar narrativas através da projeção de formas e silhuetas; a pintura e a expressão artística, pela liberdade criativa e pela possibilidade de múltiplas interpretações; e os quadros magnéticos, pela construção de composições visuais a partir da organização de diferentes elementos. Estas referências contribuíram para a criação de um brinquedo que combina construção, imaginação e exploração da luz como meio de expressão.
+![](attachments/cnc%202.jpg)
+*Teatro de sombras chinês*
 
-![](attachments/placeholder.png)
+<div class="image-container" style="display: flex;"> <img src="attachments/182108.jpg" alt="Image 1" style="width: 70%; height: auto;"> <img src="attachments/a.jpg" alt="Image 2" style="width: 30%; height: auto;"> </div>
+*Exemplos figurativos da pintura e da expressão artística*
 
-## 9. Outros Elementos
+*Amarelo-Vermelho-Azul, 1925 - Wassily Kandinsky e Cubist Composition, 1920 - David Kakabadze*
+
+![478](attachments/quadro-magnetico.jpg)
+*Quadro Magnético*
+## 8. Outros Elementos
 
 Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).
