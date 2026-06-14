@@ -18,16 +18,29 @@ published: true
 
 ## 1. Protótipo(s)
 
-Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
+<u>**Protótipo Final**</u>
 
-![Protótipo final](attachments/placeholder.png)
-![](attachments/placeholder.png)
+![697](attachments/20260613_202829.jpg)
+![](attachments/20260613_203008.jpg)
+![](attachments/20260613_203708.jpg)
+![](attachments/20260602_062337.jpg)
+![](attachments/20260613_202510.jpg)
+![](attachments/20260602_062702.jpg)
+![](attachments/20260613_203911.jpg)
+
+<u>**Cartas**</u>
+![](attachments/kkkkk.png)
+<u>**Protótipo na Embalagem**</u>
+
+![](attachments/20260602_061148.jpg)
 
 ## 2. Processo de Prototipagem
 
-Maquinação CNC, montagem, acabamentos pontuais. 
+![](attachments/20260529_180237.jpg)
 
-![](attachments/placeholder.png)
+
+<div class="image-container" style="display: flex;"> <img src="attachments/20260530_141858.jpg" alt="Image 1" style="width: 60%; height: auto;"> <img src="attachments/20260530_145051.jpg" alt="Image 2" style="width: 40%; height: auto;"> </div>
+
 
 
 ## 3. Protótipos Exploratórios
