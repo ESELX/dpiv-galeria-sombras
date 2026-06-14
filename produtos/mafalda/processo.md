@@ -40,7 +40,7 @@ As medidas dos buracos para encaixes não resultaram, no entanto no Fusion foi a
 
 ## 4. Modelos 3D
 
-https://a360.co/4nqYoPa
+https://a360.co/4oyLEqo 
 https://a360.co/43C7rUp
 ## 5. Outros Modelos
 
