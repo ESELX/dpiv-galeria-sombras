@@ -64,12 +64,12 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
     <p>Mafalda</p>
   </a>
     <a class="gallery-card" href="produtos/maria_ines/">
-    <img src="produtos/maria_ines/attachments/rascunho.jpg" alt="" />
+    <img src="produtos/maria_ines/attachments/rascunho.png" alt="" />
     <h3>Rascunho</h3>
     <p>Maria Inês</p>
   </a>
   <a class="gallery-card" href="produtos/maria_antonia/">
-    <img src="produtos/maria_antonia/attachments/2.jpg" alt="" />
+    <img src="produtos/maria_antonia/attachments/2.png" alt="" />
     <h3>Informal</h3>
     <p>Maria Antónia</p>
   </a>
