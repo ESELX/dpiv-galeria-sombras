@@ -6,7 +6,7 @@ status: not-started
 hero_image: attachments/banner_indexmi.jpg
 hero_title: Rascunho
 hero_subtitle: Maria Inês · 2025-26
-hero_height: 80vh
+hero_height: 100vh
 hero_overlay: 0.25
 hero_align: center
 published: true
