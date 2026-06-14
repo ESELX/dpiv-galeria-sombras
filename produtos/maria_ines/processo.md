@@ -127,7 +127,7 @@ O desenvolvimento do Rascunho teve como principais referências o teatro de somb
 
 *Amarelo-Vermelho-Azul, 1925 - Wassily Kandinsky e Cubist Composition, 1920 - David Kakabadze*
 
-![300](attachments/quadro-magnetico.jpg)
+![300](attachments/magnetico.jpg)
 *Quadro Magnético*
 ## 8. Outros Elementos
 
