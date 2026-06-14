@@ -14,16 +14,13 @@ published: true
 
 # Processo
 
-> Organizado do **mais recente** para o **mais antigo**. Faz uma seleção que torne clara, aprazível e detalhada a evolução do produto e das ideias.
-
 ## 1. Protótipo(s)
 
-Protótipo Final
-
-Feito em placa PVC e placa de madeira de pinho contraplacado, ambos com espessura de 12 mm.
+Protótipo Final - Feito em placa PVC e placa de madeira de pinho contraplacado, ambos com espessura de 12 mm.
 Infelizmente não tive possibilidade de cortar paredes da caixa e mais peças, devido ao seu enorme tamanho das paredes e à falta de materiais.
 ![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.44%20(5).jpeg)
 *Protótipo Final*
+
 ![697](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.43%20(5).jpeg)
 
 ![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.44%20(2).jpeg)
@@ -52,7 +49,7 @@ Antes de cortar, senti a necessidade de fazer testes em PVC, para garantir a fun
 ## 4. Modelos 3D
 
 https://a360.co/4vQhiC8 
-
+https://a360.co/4fKFlxr
 ## 5. Outros Modelos
 
 Antes de prosseguir para o protótipo final, achei por bem desenvolver manualmente maquetes de cartão para ter uma melhor noção das medidas das peças,  se os encaixes funcionavam corretamente, e como elas iriam reagir ao serem expostas à luz.
@@ -64,24 +61,42 @@ Antes de prosseguir para o protótipo final, achei por bem desenvolver manualmen
 ![](attachments/WhatsApp%20Image%202026-06-13%20at%2017.21.57.jpeg)
 ## 6. Esboços e Pranchas-Resumo
 
+<u>**Prancha-Resumo**</u>
+
 ![](attachments/WhatsApp%20Image%202026-06-13%20at%2016.55.29.jpeg)
 *Prancha resumo final*
+
 Durante o processo tive de fazer várias alterações, uma delas foi nos tipos de encaixe que estive de estar sempre a trocar, pois a minha ideia desde o início era que ele desse para usar todos os lados, mas estava com problemas nas diagonais e não estava a funcionar, depois de várias alterações acabei por chegar ao encaixe final que é uma peça à parte que parece um E.
 
 A minha primeira versão do rascunho consistia em uma mistura mais das formas do individual e do texturitas onde as aberturas para encaixar os “E” seriam na lateral (espessura da placa), mas como nem todas as CNC têm 5 eixos e sim 3, eu optei por trocar as aberturas nas partes das faces e isso fez também com que tivesse de trocar as formas das peças.
-![](attachments/WhatsApp%20Image%202026-06-13%20at%2014.29.57%20(6).jpeg)
-*Esboços e Estudos de design do brinquedo*
-![](attachments/WhatsApp%20Image%202026-06-13%20at%2014.29.57%20(7).jpeg)
-*Esboços e Estudos de Forma das Peças*
+
+<u>**Medidas**</u>
+
+Em termos de medidas para as peças devido à sua forma variada não tem um tamanho específico defendido a não sei o tamanho máximo que é 12cm
+
+A caixa, montada em formato retangular, tem 25 de altura e 40 de comprimento.
+
+<u>**Esboços**</u>
+
 ![](attachments/WhatsApp%20Image%202026-06-13%20at%2014.29.58.jpeg)
 *Esboços de nova proposta para encaixes*
 
+![](attachments/WhatsApp%20Image%202026-06-13%20at%2014.29.57%20(6).jpeg)
+*Esboços e Estudos de design do brinquedo*
+
+![](attachments/WhatsApp%20Image%202026-06-13%20at%2014.29.57%20(7).jpeg)
+*Esboços e Estudos de Forma das Peças*
+
+
+
+<u>**Esboços**</u>
 O meu primeiro projeto referente à primeira prancha resumo era um brinquedo para crianças de 2 anos que consistia em encaixar as peças das formas correspondentes a cada e vinha junto ainda com umas maiores, mas essas aí metia-se luz pelo buraco pequeno da peça e pelo grande saía a sombra pretendida, mas como a sombra era obrigada e não natural sendo demasiados evidentes.
 
 ![](attachments/WhatsApp%20Image%202026-06-13%20at%2016.51.35.jpeg)
 *Primeira Proposta de Prancha Resumo*
 ![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.41%20(1).jpeg)
 *Maquetes da primeira proposta, feitas com cartão e papel de alumínio*
+
 ![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.45.jpeg)
 
 ![](attachments/WhatsApp%20Image%202026-06-13%20at%2014.29.57%20(1).jpeg)
