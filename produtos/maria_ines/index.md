@@ -3,7 +3,7 @@ title: Rascunho
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/rascunho.png
+hero_image: attachments/banner_indexmi.jpg
 hero_title: Rascunho
 hero_subtitle: Maria Inês · 2025-26
 hero_height: 80vh

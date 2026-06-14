@@ -6,7 +6,7 @@ status: not-started
 hero_image: attachments/banner_index.jpg
 hero_title: Informal
 hero_subtitle: Maria Antónia · 2025-26
-hero_height: 80vh
+hero_height: 100vh
 hero_overlay: 0.25
 hero_align: center
 published: true
