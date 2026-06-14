@@ -49,7 +49,6 @@ With maximum freedom, the *Informal* project stands out for its free, three-dime
 Catálogo de objetos de partida que o grupo identificou para o redesenho. Para cada objeto: imagem, origem, motivo da escolha.
 
 ![](attachments/objeto1.jpg)
-
 *Objeto 1*
 
 **Objeto 1**  
@@ -62,7 +61,6 @@ Catálogo de objetos de partida que o grupo identificou para o redesenho. Para c
 
 
 ![](attachments/autoral.png)
-
 *Objeto 2*
 
 **Objeto 2** 
@@ -72,6 +70,19 @@ Catálogo de objetos de partida que o grupo identificou para o redesenho. Para c
 **Autoria**: Projeto autoral | Desconforto
 
 **Razão da escolha**: Selecionado pela forma como as sombras da peça interagem na parede e pelas formas circulares.
+
+
+![](attachments/sombra_livro.jpg)
+*Objeto 3*
+
+**Objeto 3** 
+
+**Origem:** Coreia do Sul (2010) 
+
+**Autoria**: Suzy Lee | Shadows
+
+**Razão da escolha**: Diversidade de opções de sombra e exploração da mesma.
+
 ### 2.2. Moodboard
 
 Painel de referências visuais e conceptuais que orientam a estratégia do grupo.
