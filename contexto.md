@@ -61,7 +61,7 @@ Catálogo de objetos de partida que o grupo identificou para o redesenho. Para c
 **Razão da escolha**: Selecionado pelo minimalismo e pelas formas modulares. Também serviu para a seleção do número de peças de alguns brinquedos. Serviu de base conceptual para a marca entender que a partir de poucas peças é possível ter uma brincadeira que cativa a imaginação e criatividade das crianças.
 
 
-![](attachments/autoral.png
+![](attachments/autoral.png)
 
 *Objeto 2*
 
