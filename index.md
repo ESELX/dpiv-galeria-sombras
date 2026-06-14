@@ -69,7 +69,7 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
     <p>Maria Inês</p>
   </a>
   <a class="gallery-card" href="produtos/maria_antonia/">
-    <img src="produtos/maria_antonia/attachments/banner_index.jpg" alt="" />
+    <img src="produtos/maria_antonia/attachments/bannerma.jpg" alt="" />
     <h3>Informal</h3>
     <p>Maria Antónia</p>
   </a>
