@@ -118,9 +118,7 @@ Na primeira prancha que foi executada nesta unidade curricular, a brincadeira er
 ![](attachments/pesquisaa.jpg)
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
 
-Texturitas distingue-se pela subtração intencional dos materiais para dar origem a uma tridimensionalidade abstrata (sombra). Valorizou-se a estética minimalista através de formas simples e arredondadas, que transmitem um forte sentido de dinamismo.
-
-![](attachments/placeholder.png)
+Texturitas distingue-se pela subtração intencional dos materiais para dar origem a uma tridimensionalidade abstrata (sombra). Valorizou-se a estética minimalista através de formas simples e arredondadas, que transmitem um forte sentido de dinamismo. Também se valorizaram as texturas orgânicas.
 
 ### 7.2. Objetos de referencia
 
