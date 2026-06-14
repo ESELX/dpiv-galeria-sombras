@@ -52,7 +52,8 @@ Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
 
 Durante o processo fiz imensas alterações nas medidas de encaixe e das próprias peças, porque as iniciais não estavam com as contas bem feitas.
 
-![](attachments/placeholder.png)
+![](attachments/3.jpeg)
+
 
 ## 7. Pesquisa
 
@@ -72,7 +73,7 @@ O objeto surge da relação entre as formas geométricas e as formas secundária
 
 ### 7.2. Objetos de referencia
 
-(Imagem 1)  
+![](attachments/1.jpeg)
   
 Brinquedo de madeira montessoriano de encaixe de formas e cores  
   
@@ -83,9 +84,7 @@ Aprendizagem autónoma 
 Diferenciação geométrica  
 Exploração tátil  
   
-  
-(Imagem 2)  
-  
+  ![](attachments/2.jpeg)
 Brinquedo educativo de madeira  
   
 Reconhecimento de figuras básicas  
