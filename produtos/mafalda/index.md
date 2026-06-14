@@ -22,7 +22,7 @@ student_number: ""
   /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
 -->
 
-> Brinquedo educativo produzido a partir de desperdícios de madeira que promove a aprendizagem através da manipulação, classificação e encaixe de formas geométricas.
+> Aprender, através da criação de diversos cenários imaginários e os efeitos visuais resultantes da projeção das suas sombras.
 
 ## Conceito
 
