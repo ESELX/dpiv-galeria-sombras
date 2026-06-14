@@ -20,7 +20,7 @@ published: true
 
 Protótipo Final
 
-Feito em placa PVC e placa de madeira contraplacado, ambos com espessura de 12 mm.
+Feito em placa PVC e placa de madeira de pinho contraplacado, ambos com espessura de 12 mm.
 Infelizmente não tive possibilidade de cortar paredes da caixa e mais peças, devido ao seu enorme tamanho das paredes e à falta de materiais.
 ![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.44%20(5).jpeg)
 *Protótipo Final*
@@ -33,6 +33,12 @@ Infelizmente não tive possibilidade de cortar paredes da caixa e mais peças, d
 ![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.43%20(2).jpeg)
 
 ## 2. Processo de Prototipagem
+
+Graças à minha colega de grupo, Sabrina, permitiu-me ter a flexibilidade de fazer testes e cortar o meu protótipo fora do ambiente escolar, na CNC Router da empresa Red Sky.
+
+O procedimento de corte foi simples: desenvolvimento do modelo digital no programa Autodesk Fusion e a preparação do mesmo para corte; depois o corte automático realizado pela CNC do restante da placa de 600 x 600 mm; após o corte, com uma lixa limei cuidadosamente as superfícies das peças tendo dificuldades nas partes mais estreitas.
+
+Infelizmente, como dito anteriormente, não consegui cortar as paredes da caixa devido à falta de material.
 
 ![](attachments/cnc%201.jpg)
 
