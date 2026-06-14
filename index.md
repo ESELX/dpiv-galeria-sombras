@@ -64,7 +64,7 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
     <p>Mafalda</p>
   </a>
     <a class="gallery-card" href="produtos/maria_ines/">
-    <img src="produtos/maria_ines/attachments/banner_indexmi.jpg" alt="" />
+    <img src="produtos/maria_ines/attachments/banner_bannerfinal1.jpg" alt="" />
     <h3>Rascunho</h3>
     <p>Maria Inês</p>
   </a>
