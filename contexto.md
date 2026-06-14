@@ -6,7 +6,7 @@ status: not-started
 hero_image: ../attachments/todos_final.jpg
 hero_title: Contexto de Design
 hero_subtitle: Enquadramento do grupo
-hero_height: 30vh
+hero_height: 100vh
 hero_overlay: 0.3
 hero_align: center
 published: true
