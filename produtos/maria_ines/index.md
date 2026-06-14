@@ -22,10 +22,7 @@ student_number: ""
   /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
 -->
 
-> Frase-conceito (uma linha): qual é a proposta?
-
-A página deve tornar **visualmente percetível** a estratégia de resposta ao enunciado.
-Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
+> Transformar formas em sombras e sombras em histórias.
 
 ## Conceito
 
@@ -39,14 +36,20 @@ Desenvolvido para crianças a partir dos 5 anos.
 
 <u>**Porque?**</u>
 
-Este brinquedo promove a criatividade e a imaginação das crianças através da exploração de luz e sombra. As perfurações e aberturas existentes nas peças de madeira permitem a projeção de diferentes padrões luminosos nas superfícies envolventes, incentivando a criação de formas e composições variadas. Além da componente lúdica, proporciona uma experiência sensorial pelo contacto direto com a madeira, um material natural, despertando a curiosidade e incentivando a descoberta de fenómenos relacionados com a luz de forma intuitiva e divertida
+Este brinquedo promove a criatividade e a imaginação das crianças através da exploração de luz e sombra. As perfurações e aberturas existentes nas peças de madeira permitem a projeção de diferentes padrões luminosos nas superfícies envolventes, incentivando a criação de formas e composições variadas. Além da componente lúdica, proporciona uma experiência sensorial pelo contacto direto com a madeira, um material natural, despertando a curiosidade e incentivando a descoberta de fenómenos relacionados com a luz de forma intuitiva e divertida.
 
 
-![](attachments/placeholder.png)
+![](attachments/WhatsApp%20Image%202026-06-13%20at%2016.55.29%201.jpeg)
+
 
 ## Enquadramento
 
-Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.md)) e à recolha de objetos a redesenhar.
+O Rascunho no contexto do grupo surge como elemento essencial para juntar as formas do grupo, sendo a perfeita combinação entre as formas orgânicas e geométricas.
+
+Tal como os restantes produtos do grupo, partilha a mesma filosofia do Texturitas e do Informal, ao se enquadrar no jogo livre. Sem a barreira de regras ou instruções rígidas, o projeto fomenta a autonomia e a criatividade pura, dando à criança total liberdade para explorar e montar o seu cenário como desejar.
+
+O que o torna único é a sua flexibilidade nas diferentes formas de brincar com o mesmo brinquedo, possibilitando alterações à sua estrutura múltiplas vezes sem seguir uma regra.
+
 
 
 ## Tecnologia
@@ -59,7 +62,7 @@ Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.
 
 <u>**Modelo 3D**</u>
 https://a360.co/4vQhiC8 
-  
+https://a360.co/4fKFlxr  
   
 <u>**Ficheiros técnicos**</u> 
 

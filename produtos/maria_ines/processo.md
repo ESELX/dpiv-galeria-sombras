@@ -112,10 +112,13 @@ O desenvolvimento do projeto baseou-se na exploração da relação entre luz, s
 ### 7.2. Objetos de referencia
 
 O desenvolvimento do Rascunho teve como principais referências o teatro de sombras, pela capacidade de criar narrativas através da projeção de formas e silhuetas; a pintura e a expressão artística, pela liberdade criativa e pela possibilidade de múltiplas interpretações; e os quadros magnéticos, pela construção de composições visuais a partir da organização de diferentes elementos. Estas referências contribuíram para a criação de um brinquedo que combina construção, imaginação e exploração da luz como meio de expressão.
+![](attachments/WhatsApp%20Image%202026-06-14%20at%2000.29.37.jpeg)
+
 ![](attachments/cnc%202.jpg)
 *Teatro de sombras chinês*
 
 <div class="image-container" style="display: flex;"> <img src="attachments/182108.jpg" alt="Image 1" style="width: 70%; height: auto;"> <img src="attachments/1234567.jpg" alt="Image 2" style="width: 30%; height: auto;"> </div>
+
 *Exemplos figurativos da pintura e da expressão artística*
 
 *Amarelo-Vermelho-Azul, 1925 - Wassily Kandinsky e Cubist Composition, 1920 - David Kakabadze*
