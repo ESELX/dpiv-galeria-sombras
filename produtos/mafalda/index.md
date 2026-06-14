@@ -26,16 +26,32 @@ student_number: ""
 
 ## Conceito
 
-O Mar de Formas é um brinquedo educativo em madeira constituído por uma base de encaixe, formas geométricas empilháveis e elementos móveis inspirados em peixes. O brinquedo estimula a coordenação motora fina, o reconhecimento de formas e cores e o raciocínio através da interação com os diferentes componentes.  
+<u>**Ideia central do produto**</u>
+
+O Mar de Formas é um brinquedo educativo em madeira composto por uma base de encaixe, formas geométricas e elementos inspirados no universo marinho. Através da combinação e organização das diferentes peças, as crianças podem construir composições livres, explorar relações entre formas e observar as sombras projetadas pelas suas criações.  
+
+O conceito surgiu da vontade de associar a aprendizagem educativa das formas geométricas e cores à imaginação e à descoberta. Cada peça pode assumir diferentes significados consoante a forma como é utilizada, permitindo que um círculo, por exemplo, se transforme numa bolha, uma onda ou parte de um peixe. A projeção de luz sobre as peças acrescenta uma nova dimensão à brincadeira, criando sombras e figuras que estimulam a criatividade e a interpretação visual.  
   
-O projeto foi desenvolvido segundo princípios de modularidade e parametrização permitindo adaptar dimensões e espessuras de material sem comprometer a funcionalidade do produto.
+<u>**Para quem?**</u>
+  
+Desenvolvido para crianças + 3 anos.  
+
+<u>**Porquê?**</u>
+  
+O brinquedo promove a coordenação motora fina, o reconhecimento de formas geométricas, o desenvolvimento cognitivo e a criatividade. Através da manipulação das peças, as crianças exploram conceitos básicos de composição, organização espacial e construção de figuras. 
+
+A utilização da luz permite ainda observar as sombras produzidas pelas diferentes formas, incentivando a experimentação e a descoberta de novas possibilidades de interação. O contacto com a madeira proporciona uma experiência sensorial natural e reforça a ligação a materiais sustentáveis.
 
 ![](attachments/placeholder.png)
 
 ## Enquadramento
 
-O projeto foi desenvolvido no âmbito do Projeto NESTOR, que promove a valorização de desperdícios de madeira provenientes da indústria do mobiliário através da fabricação digital.  
-A proposta inspira-se em brinquedos tradicionais de encaixe e classificação de formas, reinterpretando-os através de processos CNC e de uma abordagem sustentável baseada na reutilização de material excedente.
+O projeto foi desenvolvido no âmbito do Projeto NESTOR, que promove a valorização de desperdícios de madeira provenientes da indústria do mobiliário através da fabricação digital.
+
+O Mar de Formas inspira-se em brinquedos tradicionais de encaixe e classificação de formas, reinterpretando-os através de processos CNC e de uma abordagem sustentável baseada na reutilização de material excedente.  
+
+A proposta integra-se no universo lúdico do grupo através da exploração da luz e da sombra, permitindo que as crianças criem cenários marinhos, personagens e composições visuais sem regras rígidas de utilização.  
+
 
 ## Tecnologia
 
@@ -62,6 +78,7 @@ Autodesk Fusion 360
 
 <u>**Modelo 3D**</u>
 https://a360.co/4oyLEqo 
+https://a360.co/43C7rUp
 
 <u>**Ficheiros Técnicos:**</u>
 …..  
