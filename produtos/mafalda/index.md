@@ -87,11 +87,20 @@ https://a360.co/43C7rUp
 
 ## Função
 
-O brinquedo permite à criança identificar, organizar ou dispôr as formas geométricas e as figuras marinhas de forma a conseguir criar outras figuras e sombras.  
-A interação promove coordenação, motricidade fina, reconhecimento de formas e cores e desenvolvimento cognitivo.  
-Recomendado para crianças com mais de 3 anos.  
-As peças são colocadas manualmente sobre os pinos correspondentes na base e as figuras marinhas encaixadas nos espaços para elas destinados.  
-Como medidas de segurança, as peças têm tamanhos para minimizar riscos de ingestão, os cantos e arestas arredondados, são materiais adequados para utilização infantil e o desenvolvimento em conformidade com os princípios da Diretiva 2009/48/CE relativo à segurança dos brinquedos.
+<u>**Como se brinca?**</u>
+ 
+As crianças colocam as formas geométricas com a disposição que quiserem e o mesmo com os elementos marinhos. As peças podem ser organizadas, agrupadas e combinadas de múltiplas formas, permitindo criar composições livres inspiradas no fundo do mar.  
+
+Quando iluminadas por uma fonte de luz, as peças projetam sombras que podem ser observadas e interpretadas de diferentes maneiras, adicionando uma componente criativa à experiência de utilização.  
+
+
+<u>**Idade recomendada**</u>
++ 3 anos  
+
+
+<u>**Segurança **</u>
+
+O brinquedo foi concebido em conformidade com os princípios da Diretiva 2009/48/CE relativa à segurança dos brinquedos. As peças representam dimensões adequadas para minimizar riscos de ingestão, cantos e arestas arredondados para evitar ferimentos e acabamentos não tóxicos apropriados para utilização infantil.
 
 ## Apresentação
 
