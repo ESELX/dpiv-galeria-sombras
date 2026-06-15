@@ -86,6 +86,29 @@ Catálogo de objetos de partida que o grupo identificou para o redesenho. Para c
 
 **Razão da escolha**: Diversidade de opções de sombra e exploração da mesma.
 
+![389](attachments/IMG-20260302-WA0006.jpg)
+*Objeto 4
+
+**Objeto 4** 
+
+**Origem:** EUA (2011) 
+
+**Autoria**: Cas Holman | *Rigamajig*
+
+**Razão da escolha**:  Inspiração para o conceito de *Jogo livre*, e forma e estrutura
+
+
+
+![373](attachments/magnetico.jpg)
+*Objeto 5
+
+**Objeto 5** 
+
+**Origem:** Coreia do Sul (2010) 
+
+**Autoria**: Cas Holman | *Rigamajig*
+
+**Razão da escolha**:  Inspiração para o conceito de *Jogo livre*, e forma e estrutura
 ### 2.2. Moodboard
 
 Painel de referências visuais e conceptuais que orientam a estratégia do grupo.

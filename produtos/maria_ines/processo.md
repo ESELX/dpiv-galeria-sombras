@@ -121,8 +121,7 @@ O desenvolvimento do Rascunho teve como principais referências o teatro de somb
 ![](attachments/cnc%202.jpg)
 *Teatro de sombras chinês*
 
-<div class="image-container" style="display: flex;"> <img src="attachments/182108.jpg" alt="Image 1" style="width: 70%; height: auto;"> <img src="attachments/1234567.jpg" alt="Image 2" style="width: 30%; height: auto;"> </div>
-
+![](attachments/WhatsApp%20Image%202026-06-15%20at%2005.12.25.jpeg)
 *Exemplos figurativos da pintura e da expressão artística*
 
 *Amarelo-Vermelho-Azul, 1925 - Wassily Kandinsky e Cubist Composition, 1920 - David Kakabadze*

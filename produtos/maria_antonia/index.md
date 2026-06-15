@@ -56,6 +56,7 @@ Mas algo que destaca o Informal dos restantes é o seu foco nas atividades em co
 
 <u> **Modelo 3D** </u> <br>
 https://a360.co/4vpjsbM 
+- Modelo 3D - Autodesk Fusion 360 `attachments/Informal_MariaAntonia.f3d`
 https://a360.co/4nV0UNK
 <br>
 <u> **Ficheiros Técnicos** </u> <br>
