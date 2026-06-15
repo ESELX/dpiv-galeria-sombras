@@ -155,13 +155,21 @@ Descartei pelos motivos anteriormente mencionados, mas principalmente pelas limi
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
 
-![](attachments/placeholder.png)
+Os aspetos do moodboard que o Informal valoriza são: o uso de formas orgânicas, que não seguem regras geométricas; a simplicidade do produto, o que torna amigável a qualquer idade; e, claro, a subposição das formas ao serem projetadas para que criem algo novo.
 
 ### 7.2. Objetos de referencia
 
-Inventário de precedentes, brinquedos análogos, referências históricas.
+![331](attachments/transferir%20(4).jpg)
+*Objeto 1 - Party Game Gestos*
+*Principal inspiração no desenvolvimento da mecânica do jogo*
 
-![](attachments/placeholder.png)
+![558](attachments/1234.png)
+*Objeto 2 - Mãos*
+*Principal referencia na criação das formas orgânicas*
+
+![338](attachments/IMG-20260302-WA0006.jpg)
+*Objeto 3 - Rigamajig de Cas Holman*
+*Uma importante referencia no funcionamento e na escolha das formas*
 
 ## 8. Outros Elementos
 

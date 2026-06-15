@@ -42,7 +42,9 @@ O jogo continuará até todos os participantes construírem a sua própria silhu
 
 ## Enquadramento
 
-Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.md)) e à recolha de objetos a redesenhar.
+
+
+(ver [contexto](../../contexto.md)) 
 
 ## Tecnologia
 

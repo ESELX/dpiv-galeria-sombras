@@ -81,7 +81,7 @@ https://a360.co/4oyLEqo
 https://a360.co/43C7rUp
 
 <u>**Ficheiros Técnicos:**</u>
-…..  
+![](attachments/fichas_tecnicas_mafalda.pdf)
   
 
 
