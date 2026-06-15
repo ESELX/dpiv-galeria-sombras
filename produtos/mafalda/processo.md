@@ -51,8 +51,8 @@ Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
 Durante o processo fiz imensas alterações nas medidas de encaixe e das próprias peças, porque as iniciais não estavam com as contas bem feitas.
 
 ![](attachments/3.jpeg)
-![](attachments/Medições%20placa%20certas.jpeg)
 
+...
 ## 7. Pesquisa
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
@@ -66,6 +66,7 @@ A organização das formas em colunas verticais facilita a identificação das d
   
 O programa formal distingue-se pela utilização de formas geométricas facilmente reconhecíveis. As principais características são a geometria simples, volume adequado, forte legibilidade visual, repetição modular, proporções adequadas à escala infantil, e contraste cromático.  
 O objeto surge da relação entre as formas geométricas e as formas secundárias, criando um conjunto coerente e pedagogicamente enriquecedor.
+
 
 ### 7.2. Objetos de referencia
 

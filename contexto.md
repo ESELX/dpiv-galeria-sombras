@@ -100,7 +100,8 @@ Catálogo de objetos de partida que o grupo identificou para o redesenho. Para c
 
 
 ![373](attachments/magnetico.jpg)
-*Objeto 5
+
+*Objeto 5*
 
 **Objeto 5** 
 
