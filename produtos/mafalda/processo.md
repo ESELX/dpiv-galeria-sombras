@@ -51,8 +51,7 @@ Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
 Durante o processo fiz imensas alterações nas medidas de encaixe e das próprias peças, porque as iniciais não estavam com as contas bem feitas.
 
 ![](attachments/3.jpeg)
-
-...
+![498](attachments/Medições%20placa%20certas%201.jpeg)
 ## 7. Pesquisa
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
@@ -91,6 +90,6 @@ Facilidade de utilização
 Perceção espacial
 
 
-## 9. Outros Elementos
+## 8. Outros Elementos
 
 Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).

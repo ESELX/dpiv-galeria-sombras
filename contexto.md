@@ -87,7 +87,7 @@ Catálogo de objetos de partida que o grupo identificou para o redesenho. Para c
 **Razão da escolha**: Diversidade de opções de sombra e exploração da mesma.
 
 ![389](attachments/IMG-20260302-WA0006.jpg)
-*Objeto 4
+*Objeto 4*
 
 **Objeto 4** 
 

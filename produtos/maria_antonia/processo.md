@@ -68,6 +68,12 @@ Ele não só permitiu ter uma melhor noção do tipo de encaixe em que iria trab
 https://a360.co/4vpjsbM 
 https://a360.co/4nV0UNK
 
+<u>**Renders**</u>
+![](attachments/6.1..png)
+![](attachments/3.png)
+![](attachments/9.1.png)
+![](attachments/1.png)
+
 ## 5. Outros Modelos
 
 Antes de passar o brinquedo para o Fusion, realizei algumas maquetes rápidas em papel para verificar se a minha ideia iria funcionar.

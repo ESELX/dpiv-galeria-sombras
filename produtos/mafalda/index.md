@@ -98,7 +98,7 @@ Quando iluminadas por uma fonte de luz, as peças projetam sombras que podem ser
 + 3 anos  
 
 
-<u>**Segurança **</u>
+<u>**Segurança**</u>
 
 O brinquedo foi concebido em conformidade com os princípios da Diretiva 2009/48/CE relativa à segurança dos brinquedos. As peças representam dimensões adequadas para minimizar riscos de ingestão, cantos e arestas arredondados para evitar ferimentos e acabamentos não tóxicos apropriados para utilização infantil.
 
