@@ -16,7 +16,7 @@ published: true
 
 ## 1. Protótipo(s)
 
-Protótipo Final - Feito em placa PVC e placa de madeira de pinho contraplacado, ambos com espessura de 12 mm.
+Protótipo Final - Feito em placa PVC e placa de madeira de pinho contraplacado, ambos com espessura de 15 mm.
 Infelizmente não tive possibilidade de cortar paredes da caixa e mais peças, devido ao seu enorme tamanho das paredes e à falta de materiais.
 ![](attachments/WhatsApp%20Image%202026-06-12%20at%2013.06.44%20(5).jpeg)
 *Protótipo Final*

@@ -93,6 +93,64 @@ Por fim, com medo do problema da folga, tentei fazer uma maquete com esferovite,
 **<u>**Pracha-resumo Final**</u>
 ![](attachments/pracha%20resumo%20-%20Maria%20Antonia%20Neves6.png)
 
+Após um longo processo de desenvolvimento durante o semestre, este foi o protótipo final do briquendo, mas como referido anteriormente, ele sofreu várias alterações até chegar a este ponto.
+
+As principais alterações sofreram melhorias até a sua versão anterior, fora a melhora dos encaixes entre as peças, que permitem o equilíbrio total do brinquedo, tal como a escolha definitiva das suas formas.
+
+<u>**Esboços**</u>
+
+
+
+  
+<u>**Segunda Proposta de Prancha-resumo**</u>
+
+![](attachments/pracha%20resumo%20-%20Maria%20Antonia%20Neves5.png)
+
+
+Esta proposta de brinquedo foi a combinação das sugestões e melhorias feitas pelo professor em relação à minha proposta inicial. 
+
+O grande problema apontado pelo professor foi a forçação da sombra no brinquedo e o tipo de formas que eu estava a usar não era das melhores para trabalhar com a subposição das sombras.
+
+Por isso peguei na ideia original, a primeira proposta, e criei um jogo de cartas, baseadas nos gestos, onde a pessoa teria de adivinhar o tema a partir da sombra criada pelo objeto, deixando de ser forçado, e fazendo parte do jogo.
+
+Ao pensar que tipo de forma iria usar, originalmente, pensei em usar formas geométricas, mas com a conversa do professor, sobre como as mãos em subposição criam uma forma nova ao serem projetadas,  mudei de planos. 
+
+Isto inspirou-me no estudo de desenvolvimento do logotipo no módulo de Design de Comunicação, onde estudei esse fenômeno da subposição das mãos. Esta experiência levou-me às formas orgânicas abstratas.
+
+Mais tarde chegaria a criar um logotipo inspirado nessas formas, mas ele não seguiu para frente como final.
+![](attachments/20260614_230854.jpg)
+  
+![](attachments/20260613_204646.jpg)
+
+
+  
+
+Outro ponto importante desta versão, como falado anteriormente, foi os encaixes.
+
+Encaixe entre peças um simples retângulo com dois dos lados com um dente, que encaixa numa abertura à forma, este encaixe é o da maquete de papel. Foi removida devido a sua inatabilidade e recomendação do professor.
+
+Outra peça a destacar são as peças de estabilização, que nesta altura tinham, juntas, a forma de uma força. (esboço na parte superior da prancha resumo). 
+
+Foi remodelada pelo mesmo motivo da anterior.
+
+(imagens)
+
+  
+  
+
+<u>**Primeira Proposta de Prancha-resumo**</u>
+
+![](attachments/pracha%20resumo%20-%20Maria%20Antonia%20Neves3.png)
+
+
+Por fim, a primeira proposta apresentada, tal como anterior, é um jogo de cartas, que ao tirar uma carta do baralho, ela teria um desenho de uma silhueta, os jogadores deveriam montar o brinquedo com base na própria silhueta para chegar o mais próximo possível do da carta.
+
+Ao criar estas peças inspirei-me nos brinquedos que se ligavam entre si, baseando-me em formas mais quadradas para distanciar-me do projeto de uma das minhas colegas, com medo de que fosse muito similar.
+
+Aqui os encaixes seriam tipo dentes em todas as suas laterais.
+
+Descartei pelos motivos anteriormente mencionados, mas principalmente pelas limitações da forma.  
+
 
 
 
@@ -108,6 +166,6 @@ Inventário de precedentes, brinquedos análogos, referências históricas.
 
 ![](attachments/placeholder.png)
 
-## 9. Outros Elementos
+## 8. Outros Elementos
 
 Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).
