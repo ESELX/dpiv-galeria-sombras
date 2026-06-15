@@ -42,7 +42,7 @@ O brinquedo promove a coordenação motora fina, o reconhecimento de formas geom
 
 A utilização da luz permite ainda observar as sombras produzidas pelas diferentes formas, incentivando a experimentação e a descoberta de novas possibilidades de interação. O contacto com a madeira proporciona uma experiência sensorial natural e reforça a ligação a materiais sustentáveis.
 
-![](attachments/placeholder.png)
+![](attachments/3%201.jpeg)
 
 ## Enquadramento
 
@@ -105,9 +105,8 @@ O brinquedo foi concebido em conformidade com os princípios da Diretiva 2009/48
 ## Apresentação
 
 Imagens-chave que sintetizam o produto final.
-
-![](attachments/placeholder.png)
-![](attachments/placeholder.png)
+![](attachments/banner_mafalda%201.png)
+![](attachments/IMG_1319.jpg)
 
 ---
 

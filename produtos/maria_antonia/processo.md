@@ -147,7 +147,7 @@ Aqui os encaixes seriam tipo dentes em todas as suas laterais.
 
 Descartei pelos motivos anteriormente mencionados, mas principalmente pelas limitações da forma.  
 
-![4](attachments/7d000fac60b94291f44de05860d134f7RTsqMtNrGeNlwNBC-15.png)
+![450](attachments/7d000fac60b94291f44de05860d134f7RTsqMtNrGeNlwNBC-15.png)
 
 
 
