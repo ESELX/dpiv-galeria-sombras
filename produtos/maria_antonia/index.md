@@ -38,13 +38,13 @@ O jogo continuará até todos os participantes construírem a sua própria silhu
  Este brinquedo incentiva o convívio e a estimulação da criatividade nas crianças, a partir da criação de formas abstratas projetadas através das sombras. Ao mesmo tempo, permite-lhe entrar em contato com um material orgânico, a madeira. 
 
 
-![](attachments/placeholder.png)
+![](attachments/pracha%20resumo%20-%20Maria%20Antonia%20Neves6%201.png)
 
 ## Enquadramento
 
+Este produto faz parte do âmbito do projeto Nestor, centrado na exploração da sombra e da luz, sendo ele desenhado para que o tema central seja uma parte fundamental do seu design. Ele também enquadra a temática de jogo livre, juntamente com Textuitas e Rascunho, que não delimita a criança a uma única forma correta de brincar, mas lhe permite ir além.
 
-
-(ver [contexto](../../contexto.md)) 
+Mas algo que destaca o Informal dos restantes é o seu foco nas atividades em convívio. Nós pretendemos com este produto incentivar amizades, criando momentos de partilha e colaboração entre as crianças e famílias através da interação e da brincadeira.
 
 ## Tecnologia
 
@@ -92,10 +92,12 @@ Este produto segue com a Diretiva 2009/48/CE, tendo cuidado ao se adaptar para e
 
 ## Apresentação
 
-Imagens-chave que sintetizam o produto final.
+![](attachments/bannerma%201.jpg)
 
-![](attachments/placeholder.png)
-![](attachments/placeholder.png)
+![](attachments/20260602_062337%201.jpg)
+![](attachments/20260602_062702%202.jpg)
+![](attachments/Gemini_Generated_Image_tej6zltej6zltej6.png)
+
 
 ---
 
