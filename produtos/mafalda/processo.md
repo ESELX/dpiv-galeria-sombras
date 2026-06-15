@@ -18,8 +18,11 @@ published: true
 
 Protótipo Final - Feito em PVC, com espessura de 15mm.  
 Só realizei o corte uma vez. Resultaram os elementos das figuras geométricas e marinhas.
+![](attachments/IMG_1322.jpg)
+![](attachments/IMG_1315.jpg)
+![](attachments/IMG_1321%201.jpg)
+![](attachments/IMG_1317.jpg)
 
-![](attachments/IMG_1322%201.heic)
 ## 2. Processo de Prototipagem
 
 Felizmente, com a colaboração da minha colega de grupo, Sabrina Silva, foi-me dada a possibilidade de cortar o meu protótipo fora do ambiente escolar, na CNC Router da empresa Red Sky.  
@@ -34,7 +37,7 @@ Desenvolvi no programa Autodesk Fusion o modelo digital e a preparação do mesm
 Só fiz o corte uma única vez.  
 As medidas dos buracos para encaixes não resultaram, nem a forma dos pilares arredondada, no entanto, no Fusion foi atualizado.
 
-![](attachments/placeholder.png)
+![](attachments/IMG_1324.jpg)
 
 ## 4. Modelos 3D
 
@@ -43,15 +46,12 @@ https://a360.co/43C7rUp
 ## 5. Outros Modelos
 
 Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
-
-![](attachments/placeholder.png)
-
 ## 6. Esboços e Pranchas-Resumo
 
 Durante o processo fiz imensas alterações nas medidas de encaixe e das próprias peças, porque as iniciais não estavam com as contas bem feitas.
 
 ![](attachments/3.jpeg)
-
+![](attachments/Medições%20placa%20certas.jpeg)
 
 ## 7. Pesquisa
 
@@ -66,8 +66,6 @@ A organização das formas em colunas verticais facilita a identificação das d
   
 O programa formal distingue-se pela utilização de formas geométricas facilmente reconhecíveis. As principais características são a geometria simples, volume adequado, forte legibilidade visual, repetição modular, proporções adequadas à escala infantil, e contraste cromático.  
 O objeto surge da relação entre as formas geométricas e as formas secundárias, criando um conjunto coerente e pedagogicamente enriquecedor.
-
-![](attachments/placeholder.png)
 
 ### 7.2. Objetos de referencia
 

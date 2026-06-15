@@ -147,7 +147,10 @@ Aqui os encaixes seriam tipo dentes em todas as suas laterais.
 
 Descartei pelos motivos anteriormente mencionados, mas principalmente pelas limitações da forma.  
 
-![450](attachments/7d000fac60b94291f44de05860d134f7RTsqMtNrGeNlwNBC-15.png)
+![4](attachments/7d000fac60b94291f44de05860d134f7RTsqMtNrGeNlwNBC-15.png)
+
+
+
 ## 7. Pesquisa
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
