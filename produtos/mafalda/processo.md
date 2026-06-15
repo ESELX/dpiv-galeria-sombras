@@ -16,11 +16,10 @@ published: true
 
 ## 1. Protótipo(s)
 
-Protótipo Final - Feito em PVC, com espessura de 15mm.
+Protótipo Final - Feito em PVC, com espessura de 15mm.  
+Só realizei o corte uma vez. Resultaram os elementos das figuras geométricas e marinhas.
 
-![Protótipo final](attachments/placeholder.png)
-![](attachments/placeholder.png)
-
+![](attachments/IMG_1322%201.heic)
 ## 2. Processo de Prototipagem
 
 Felizmente, com a colaboração da minha colega de grupo, Sabrina Silva, foi-me dada a possibilidade de cortar o meu protótipo fora do ambiente escolar, na CNC Router da empresa Red Sky.  
@@ -33,8 +32,7 @@ Desenvolvi no programa Autodesk Fusion o modelo digital e a preparação do mesm
 ## 3. Protótipos Exploratórios
 
 Só fiz o corte uma única vez.  
-
-As medidas dos buracos para encaixes não resultaram, no entanto no Fusion foi atualizado.
+As medidas dos buracos para encaixes não resultaram, nem a forma dos pilares arredondada, no entanto, no Fusion foi atualizado.
 
 ![](attachments/placeholder.png)
 

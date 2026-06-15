@@ -61,7 +61,7 @@ As imagens abaixo são o protótipo usado como exemplo para a minha turma.
 
 Ele não só permitiu ter uma melhor noção do tipo de encaixe em que iria trabalhar no restante do processo, mas também entender a importância da folga, já neste exemplo, devido à quase inexistente folga, o encaixe não conseguiu entrar dentro da peça.
 
-<div class="image-container" style="display: flex;"> <img src="attachments/20260424_175032.jpg" alt="Image 1" style="width: 70%; height: auto;"> <img src="attachments/20260424_175010.jpg" alt="Image 2" style="width: 30%; height: auto;"> </div>
+![](attachments/20260615_012029.jpg)
 
 ![](attachments/IMG-20260424-WA0005.jpg)
 
@@ -76,7 +76,7 @@ Antes de passar o brinquedo para o Fusion, realizei algumas maquetes rápidas em
 
 Antes da aula anteriormente mencionada, realizei uma maquete com os encaixes antigos para testar os encaixes e estudar quase que forma seriam mais interessantes ao serem expostos à luz.
 
-<div class="image-container" style="display: flex;"> <img src="attachments/20260421_183503.jpg" alt="Image 1" style="width: 30%; height: auto;"> <img src="attachments/20260421_183518.jpg" alt="Image 2" style="width: 70%; height: auto;"> </div>
+![](attachments/20260615_012229.jpg)
 
 
 Após a aula, comecei a desenvolver o meu brinquedo no Autodesk Fusion, comecei por fazer os encaixes, pois pensava fazer mais um protótipo antes do final para ter garantia de que os encaixes estavam a funcionar bem.
@@ -85,7 +85,7 @@ No meio do processo, repliquei uma nova ideia de encaixes para estabilizar o bri
 
 Por fim, com medo do problema da folga, tentei fazer uma maquete com esferovite, mas devido a minhas dificuldades em acender o isqueiro desisti de concluir a maquete e decidi me focar em fazer protótipos.
 
-![456](attachments/20260613_205032.jpg)
+![](attachments/20260615_012147.jpg)
 
 
 ## 6. Esboços e Pranchas-Resumo
@@ -98,7 +98,8 @@ Após um longo processo de desenvolvimento durante o semestre, este foi o protó
 As principais alterações sofreram melhorias até a sua versão anterior, fora a melhora dos encaixes entre as peças, que permitem o equilíbrio total do brinquedo, tal como a escolha definitiva das suas formas.
 
 <u>**Esboços**</u>
-
+![](attachments/Adobe%20Express%20-%20file%20(1).png)
+![557](attachments/Adobe%20Express%20-%20file%20(2)%201.png)
 
 
   
@@ -118,12 +119,9 @@ Ao pensar que tipo de forma iria usar, originalmente, pensei em usar formas geom
 Isto inspirou-me no estudo de desenvolvimento do logotipo no módulo de Design de Comunicação, onde estudei esse fenômeno da subposição das mãos. Esta experiência levou-me às formas orgânicas abstratas.
 
 Mais tarde chegaria a criar um logotipo inspirado nessas formas, mas ele não seguiu para frente como final.
-![](attachments/20260614_230854.jpg)
+![450](attachments/20260614_230854.jpg)
   
-![](attachments/20260613_204646.jpg)
-
-
-  
+![450](attachments/20260613_204646.jpg)
 
 Outro ponto importante desta versão, como falado anteriormente, foi os encaixes.
 
@@ -133,10 +131,8 @@ Outra peça a destacar são as peças de estabilização, que nesta altura tinha
 
 Foi remodelada pelo mesmo motivo da anterior.
 
-(imagens)
-
-  
-  
+![450](attachments/20260613_204726.jpg)
+  ![450](attachments/20260613_204708%201.jpg)
 
 <u>**Primeira Proposta de Prancha-resumo**</u>
 
@@ -151,9 +147,7 @@ Aqui os encaixes seriam tipo dentes em todas as suas laterais.
 
 Descartei pelos motivos anteriormente mencionados, mas principalmente pelas limitações da forma.  
 
-
-
-
+![450](attachments/7d000fac60b94291f44de05860d134f7RTsqMtNrGeNlwNBC-15.png)
 ## 7. Pesquisa
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
