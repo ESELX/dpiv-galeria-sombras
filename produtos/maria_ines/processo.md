@@ -131,6 +131,12 @@ O desenvolvimento do Rascunho teve como principais referências o teatro de somb
 
 ![300](attachments/lousamagnetica.jpeg)
 *Quadro Magnético Infantil*
+
+![499](attachments/20260618_233441.jpg)
+*Fisher-Price Pop-Onz*
 ## 8. Outros Elementos
 
-Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).
+![333](attachments/WhatsApp%20Image%202026-06-18%20at%2023.249.04.jpeg)
+*Quadro Autoral*
+*Uma das minhas principais inspirações para criar a grelha da caixa foi este quadro autoral desenvolvido para a unidade curricular de oficina.*
+
