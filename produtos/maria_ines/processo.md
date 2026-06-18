@@ -139,5 +139,5 @@ O desenvolvimento do Rascunho teve como principais referências o teatro de somb
 ![333](attachments/WhatsApp%20Image%202026-06-18%20at%2023.249.04.jpeg)
 *Quadro Autoral*
 
-*Uma das minhas principais inspirações para criar a grelha da caixa foi este quadro autoral desenvolvido para a unidade curricular de oficina.*
+*Uma das minhas principais inspirações para criar a grelha da caixa foi este quadro autoral desenvolvido para a unidade curricular de oficina, onde as suas linhas que cruzam fez-me lembrar que em vez de ter um suporte de paredes lisas podia ter várias aberturas por elas todas para ter mais possibilidade de encaixes*
 
